@@ -1,0 +1,49 @@
+name: Download List & Vis
+
+on:
+  schedule:
+    - cron: "0 0 1,11,21 * *"
+  workflow_dispatch:
+
+env:
+  WEBHOOK: ${{ secrets.WEBHOOK }}
+
+jobs:
+  workflow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.x"
+
+      - name: Install Dependency
+        run: |
+          sudo apt purge google-chrome-stable
+          sudo apt purge chromium-browser
+          sudo apt install -y chromium-browser
+          pip install requests pandas xlrd selenium seaborn matplotlib
+          sudo mv src/DoHyeon-Regular.ttf /usr/share/fonts/
+          sudo fc-cache -f -v
+          rm ~/.cache/matplotlib -fr
+
+      - name: Run Script
+        run: python main.py
+
+      - name: Move XLS File to data Directory
+        run: |
+          mkdir -p data/
+          mv *.xls data/
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m ":bento: Update: GitHub Actions" || echo "No changes to commit"
+          git push
