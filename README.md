@@ -8,12 +8,12 @@
 <summary align="center">
   <h2> :school_satchel: 석사 전문연구요원 :school_satchel: </h2>
 </summary>
-  <div align="center" style="display: flex;">
+  <div align="center">
     <img src="prop/MS/연구분야.png">
     <img src="prop/MS/위치.png">
     <img src="prop/MS/지방청.png">
-    <img src="prop/MS/TOP_30_현역_편입인원.png" height="600" style="margin-right: 10px;">
-    <img src="prop/MS/TOP_30_현역_복무인원.png" height="600" style="margin-right: 10px;">
+    <img src="prop/MS/TOP_30_현역_편입인원.png">
+    <img src="prop/MS/TOP_30_현역_복무인원.png">
     </br>
     <a href="https://github.com/Zerohertz/awesome-jmy/blob/main/prop/MS/README.md"> :pencil: 표로 보기 :pencil: </a>
   </div>
@@ -23,12 +23,12 @@
 <summary align="center">
   <h2> :mortar_board: 박사 전문연구요원 :mortar_board: </h2>
 </summary>
-  <div align="center" style="display: flex;">
+  <div align="center">
     <img src="prop/PhD/연구분야.png">
     <img src="prop/PhD/위치.png">
     <img src="prop/PhD/지방청.png">
-    <img src="prop/PhD/TOP_30_현역_편입인원.png" height="600" style="margin-right: 10px;">
-    <img src="prop/PhD/TOP_30_현역_복무인원.png" height="600" style="margin-right: 10px;">
+    <img src="prop/PhD/TOP_30_현역_편입인원.png">
+    <img src="prop/PhD/TOP_30_현역_복무인원.png">
     </br>
     <a href="https://github.com/Zerohertz/awesome-jmy/blob/main/prop/PhD/README.md"> :pencil: 표로 보기 :pencil: </a>
   </div>
@@ -38,13 +38,13 @@
 <summary align="center">
   <h2> :bulb: 전체 전문연구요원 :bulb: </h2>
 </summary>
-  <div align="center" style="display: flex;">
+  <div align="center">
     <img src="prop/ALL/연구분야.png">
     <img src="prop/ALL/업종.png">
     <img src="prop/ALL/위치.png">
     <img src="prop/ALL/지방청.png">
-    <img src="prop/ALL/TOP_30_현역_편입인원.png" height="600" style="margin-right: 10px;">
-    <img src="prop/ALL/TOP_30_현역_복무인원.png" height="600" style="margin-right: 10px;">
+    <img src="prop/ALL/TOP_30_현역_편입인원.png">
+    <img src="prop/ALL/TOP_30_현역_복무인원.png">
     </br>
     <a href="https://github.com/Zerohertz/awesome-jmy/blob/main/prop/ALL/README.md"> :pencil: 표로 보기 :pencil: </a>
   </div>
