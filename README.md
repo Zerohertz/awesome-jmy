@@ -1,7 +1,11 @@
 <div align=center> <h1> :technologist: 전문연구요원을 위한 데이터 적재 및 시각화 :technologist: </h1> </div>
 
 <div align = "center">
-  <img src="https://img.shields.io/badge/awesome--jmy-FC60A8?style=for-the-badge&logo=Awesome Lists&logoColor=white"/>
+  <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+  </a>
+  </br>
+  <img src="https://img.shields.io/badge/awesome--jmy-800a0a?style=for-the-badge&logo=Awesome Lists&logoColor=white"/>
 </div>
 
 <details open>
