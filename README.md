@@ -68,5 +68,10 @@
 <div align=center> <h1> :memo: 전문연구요원 블로그 :memo: </h1> </div>
 
 + [Zerohertz](https://zerohertz.github.io/tags/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90/)
++ [harryp](https://harryp.tistory.com/category/Park%27s%20Life/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
++ [remocon33](https://remocon33.tistory.com/m/category/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
 + [cv-learn](https://www.cv-learn.com/tags/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90/)
-+ [conqrean](https://conqrean.tistory.com/tag/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
++ [jeongmincha](https://jeongmincha.github.io/tags/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90/)
++ [queez0405](https://queez0405.github.io/tags/#%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
++ [thinkpro](https://thinkpro.tistory.com/tag/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
++ [next-brain](https://next-brain.tistory.com/tag/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
