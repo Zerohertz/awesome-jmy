@@ -161,7 +161,7 @@ class vis_data:
                 )
                 for name, a, b, c in self.ranked_data_org.values:
                     f.writelines(
-                        f"|[{name}](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/ALL/time/{name.replace('(', '').replace(')', '').replace(' ', '')}.png)|{a}|{b}|{c}|\n"
+                        f"|[{name}](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/ALL/time/{name.replace('(', '').replace(')', '').replace('/', '').replace(' ', '')}.png)|{a}|{b}|{c}|\n"
                     )
             else:
                 f.writelines(
@@ -169,7 +169,7 @@ class vis_data:
                 )
                 for name, a, b, c in self.ranked_data_org.values[:top]:
                     f.writelines(
-                        f"|[{name}](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/ALL/time/{name.replace('(', '').replace(')', '').replace(' ', '')}.png)|{a}|{b}|{c}|\n"
+                        f"|[{name}](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/ALL/time/{name.replace('(', '').replace(')', '').replace('/', '').replace(' ', '')}.png)|{a}|{b}|{c}|\n"
                     )
             f.writelines("\n</div>")
 
@@ -181,7 +181,7 @@ class vis_data:
         for name in time_data.iloc[:, 1].unique():
             self._twin_plot(time_data, name)
             plt.savefig(
-                f"{self.dir}/time/{name.replace('(', '').replace(')', '').replace(' ', '')}.png",
+                f"{self.dir}/time/{name.replace('(', '').replace(')', '').replace('/', '').replace(' ', '')}.png",
                 dpi=300,
                 bbox_inches="tight",
             )
