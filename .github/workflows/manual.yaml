@@ -31,7 +31,7 @@ jobs:
         run: |
           rm -f prop/*/*.png
           rm -f prop/*/*.md
-          rm -f prop/time
+          rm -rf prop/time
           python src/vis.py
 
       - name: Commit and Push
