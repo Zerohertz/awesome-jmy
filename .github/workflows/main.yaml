@@ -35,6 +35,7 @@ jobs:
       - name: Run Script
         run: |
           rm prop/*/*.png
+          rm prop/ALL/time
           rm prop/*/*.md
           python main.py
 
