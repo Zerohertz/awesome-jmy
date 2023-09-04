@@ -182,7 +182,7 @@ class vis_data:
             self._twin_plot(time_data, name)
             plt.savefig(
                 f"{self.dir}/time/{name.replace('(', '').replace(')', '').replace('/', '').replace(' ', '')}.png",
-                dpi=300,
+                dpi=100,
                 bbox_inches="tight",
             )
             plt.close("all")
