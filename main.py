@@ -1,7 +1,10 @@
+import warnings
 from glob import glob
 
 import pandas as pd
 from src import download_data, vis_data
+
+warnings.filterwarnings("ignore", category=UserWarning)
 
 if __name__ == "__main__":
     try:

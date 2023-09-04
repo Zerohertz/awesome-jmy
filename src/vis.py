@@ -1,10 +1,13 @@
 import os
+import warnings
 from glob import glob
 
 import pandas as pd
 import seaborn as sns
 from matplotlib import pyplot as plt
 from matplotlib.ticker import MaxNLocator
+
+warnings.filterwarnings("ignore")
 
 
 class vis_data:
@@ -66,11 +69,13 @@ class vis_data:
         plt.rcParams["font.family"] = "Do Hyeon"
 
     def time_tsv(self):
-        with open(f"{self.dir}/time.tsv", "a") as f:
+        print("WRITE TIME SERIES TSV")
+        with open(f"prop/time.tsv", "a") as f:
             for name, _, a, b in self.ranked_data_org.values:
                 f.writelines(f"{self.time}\t{name}\t{a}\t{b}\n")
 
     def pie_hist(self, tar, threshold=3):
+        print("PLOT PIE & HIST:\t", tar)
         field_counts = self.data[tar].value_counts()
         large_parts = field_counts[field_counts / len(self.data) * 100 >= threshold]
         small_parts = field_counts[field_counts / len(self.data) * 100 < threshold]
@@ -116,6 +121,7 @@ class vis_data:
         plt.savefig(f"{self.dir}/{tar}.png", dpi=300, bbox_inches="tight")
 
     def rank_vis(self, by="현역 복무인원", top=30):
+        print("PLOT RANK:\t", by)
         plt.figure(figsize=(10, int(0.6 * top)))
         plt.grid(zorder=0)
         colors = sns.color_palette("coolwarm", n_colors=top)
@@ -154,6 +160,7 @@ class vis_data:
         )
 
     def rank_readme(self, top=0):
+        print("WRITE README.md")
         with open(f"{self.dir}/README.md", "w") as f:
             if top == 0:
                 f.writelines(
@@ -174,14 +181,15 @@ class vis_data:
             f.writelines("\n</div>")
 
     def plot_time(self):
-        os.makedirs(f"{self.dir}/time", exist_ok=True)
+        os.makedirs(f"prop/time", exist_ok=True)
         time_data = pd.read_csv(
-            f"{self.dir}/time.tsv", sep="\t", header=None, encoding="utf-8"
+            f"prop/time.tsv", sep="\t", header=None, encoding="utf-8"
         )
         for name in time_data.iloc[:, 1].unique():
+            print("PLOT TIME SERIES:\t", name)
             self._twin_plot(time_data, name)
             plt.savefig(
-                f"{self.dir}/time/{name.replace('(', '').replace(')', '').replace('/', '').replace(' ', '')}.png",
+                f"prop/time/{name.replace('(', '').replace(')', '').replace('/', '').replace(' ', '')}.png",
                 dpi=100,
                 bbox_inches="tight",
             )
