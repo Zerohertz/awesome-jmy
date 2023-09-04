@@ -56,10 +56,10 @@ class vis_data:
             .str.replace("경기도", "경기도 ")
         )
         self.ranked_data_org = self.data.sort_values(
-            by="현역 복무인원", ascending=False
+            by=["현역 복무인원", "현역 편입인원", "업체명"], ascending=[False, False, True]
         ).iloc[:, [1, 14, 15, 16]]
         self.ranked_data_new = self.data.sort_values(
-            by="현역 편입인원", ascending=False
+            by=["현역 편입인원", "현역 복무인원", "업체명"], ascending=[False, False, True]
         ).iloc[:, [1, 14, 15, 16]]
         plt.rcParams["font.size"] = 15
         plt.rcParams["font.family"] = "Do Hyeon"
