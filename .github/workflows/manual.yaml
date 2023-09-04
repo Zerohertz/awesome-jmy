@@ -30,7 +30,7 @@ jobs:
       - name: Run Script
         run: |
           rm -f prop/*/*.png
-          rm -f prop/ALL/time
+          rm -f prop/time
           rm -f prop/*/*.md
           python src/vis.py
 
