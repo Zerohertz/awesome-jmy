@@ -1,0 +1,39 @@
+name: Only Vis
+
+on:
+  workflow_dispatch:
+
+env:
+  WEBHOOK: ${{ secrets.WEBHOOK }}
+
+jobs:
+  workflow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.x"
+
+      - name: Install Dependency
+        run: |
+          pip install pandas xlrd seaborn matplotlib
+          sudo cp prop/DoHyeon-Regular.ttf /usr/share/fonts/
+          sudo fc-cache -f -v
+          rm ~/.cache/matplotlib -fr
+
+      - name: Run Script
+        run: python src/vis.py
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m ":bento: Update: GitHub Actions" || echo "No changes to commit"
+          git push

@@ -1,4 +1,5 @@
 import os
+from glob import glob
 
 import pandas as pd
 import seaborn as sns
@@ -73,7 +74,7 @@ class vis_data:
         large_parts_labels = [
             f"{i} ({v})" for i, v in zip(large_parts.index, large_parts.values)
         ]
-        plt.figure(figsize=(25, 10))
+        plt.figure(figsize=(30, 10))
         plt.subplot(1, 2, 1)
         colors = sns.color_palette("coolwarm", n_colors=len(large_parts))[::-1]
         plt.pie(
@@ -81,13 +82,14 @@ class vis_data:
             labels=large_parts_labels,
             autopct="%1.1f%%",
             startangle=90,
-            radius=0.9,
+            radius=1,
             colors=colors,
         )
         plt.title(f"{threshold}% 이상 {tar} 분포", fontsize=25)
         plt.subplot(1, 2, 2)
         plt.grid(zorder=0)
-        colors = sns.color_palette("Spectral", n_colors=len(large_parts))
+        small_parts = small_parts[:15]
+        colors = sns.color_palette("Spectral", n_colors=len(small_parts))
         bars = plt.bar(
             small_parts.index,
             small_parts.values,
@@ -111,9 +113,6 @@ class vis_data:
         plt.savefig(f"{self.dir}/{tar}.png", dpi=300, bbox_inches="tight")
 
     def rank_vis(self, by="현역 복무인원", top=30):
-        # ranked_data = self.data.sort_values(by=by, ascending=False).iloc[
-        #     :top, [1, 14, 15, 16]
-        # ]
         plt.figure(figsize=(10, int(0.6 * top)))
         plt.grid(zorder=0)
         colors = sns.color_palette("coolwarm", n_colors=top)
@@ -164,3 +163,37 @@ class vis_data:
     #     time_data = pd.read_csv(
     #         f"{self.dir}/time.tsv", sep="\t", header=None, encoding="utf-8"
     #     )
+
+
+if __name__ == "__main__":
+    # ----- NOTE: [Data Load] ----- #
+    file_name = sorted(glob("data/*.xls"))[-1]
+    data = pd.read_excel(file_name)
+
+    # ----- NOTE: [전체 전문연구요원] ----- #
+    vd = vis_data(file_name, data, 0)
+    vd.pie_hist("연구분야", 3)
+    vd.pie_hist("지방청", 3)
+    vd.pie_hist("업종", 3)
+    vd.pie_hist("위치", 2)
+    vd.rank_vis("현역 복무인원")
+    vd.rank_vis("현역 편입인원")
+    vd.rank_readme()
+
+    # ----- NOTE: [석사 전문연구요원] ----- #
+    vd = vis_data(file_name, data, 1)
+    vd.pie_hist("연구분야", 3)
+    vd.pie_hist("지방청", 3)
+    vd.pie_hist("위치", 2)
+    vd.rank_vis("현역 복무인원")
+    vd.rank_vis("현역 편입인원")
+    vd.rank_readme()
+
+    # ----- NOTE: [박사 전문연구요원] ----- #
+    vd = vis_data(file_name, data, 2)
+    vd.pie_hist("연구분야", 3)
+    vd.pie_hist("지방청", 3)
+    vd.pie_hist("위치", 2)
+    vd.rank_vis("현역 복무인원")
+    vd.rank_vis("현역 편입인원")
+    vd.rank_readme()
