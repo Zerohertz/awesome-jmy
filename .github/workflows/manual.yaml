@@ -30,8 +30,8 @@ jobs:
       - name: Run Script
         run: |
           rm -f prop/*/*.png
-          rm -f prop/time
           rm -f prop/*/*.md
+          rm -f prop/time
           python src/vis.py
 
       - name: Commit and Push
