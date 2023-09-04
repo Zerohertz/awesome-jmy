@@ -42,6 +42,7 @@ if __name__ == "__main__":
         vd.rank_readme()
 
     except Exception as e:
+        print(e)
         dd._send_discord_message(
             ":warning:" * 10
             + "ERROR!!!"
