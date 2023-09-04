@@ -34,9 +34,9 @@ jobs:
 
       - name: Run Script
         run: |
-          rm prop/*/*.png
-          rm prop/ALL/time
-          rm prop/*/*.md
+          rm -f prop/*/*.png
+          rm -f prop/ALL/time
+          rm -f prop/*/*.md
           python main.py
 
       - name: Move XLS File to data Directory

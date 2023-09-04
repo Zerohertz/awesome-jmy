@@ -29,9 +29,9 @@ jobs:
 
       - name: Run Script
         run: |
-          rm prop/*/*.png
-          rm prop/ALL/time
-          rm prop/*/*.md
+          rm -f prop/*/*.png
+          rm -f prop/ALL/time
+          rm -f prop/*/*.md
           python src/vis.py
 
       - name: Commit and Push
