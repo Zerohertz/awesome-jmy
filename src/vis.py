@@ -214,8 +214,11 @@ class vis_data:
         ax2.tick_params("y", colors="r")
         ax1.yaxis.set_major_locator(MaxNLocator(integer=True))
         ax2.yaxis.set_major_locator(MaxNLocator(integer=True))
-        m = self.data[self.data["업체명"] == name]["현역 배정인원"].iloc[0]
-        plt.title(f"{name} (현역 배정인원: {m}명)")
+        try:
+            m = self.data[self.data["업체명"] == name]["현역 배정인원"].iloc[0]
+            plt.title(f"{name} (현역 배정인원: {m}명)")
+        except:
+            plt.title(f"{name} (현역 배정인원: X)")
 
 
 if __name__ == "__main__":
