@@ -54,7 +54,7 @@ jobs:
           git commit -m ":rocket: Docs: Rank" || echo "prop/*/*.md: No changes to commit"
           git add prop/*/*.png
           git commit -m ":art: Update: Visualization" || echo "prop/*/*.png: No changes to commit"
-          git add time.tsv
+          git add prop/time.tsv
           git add prop/time
           git commit -m ":alarm_clock: Update: Time Series" || echo "time.tsv, prop/time: No changes to commit"
           git add -A
