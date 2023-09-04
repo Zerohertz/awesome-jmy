@@ -4,6 +4,7 @@ from glob import glob
 import pandas as pd
 import seaborn as sns
 from matplotlib import pyplot as plt
+from matplotlib.ticker import MaxNLocator
 
 
 class vis_data:
@@ -152,19 +153,61 @@ class vis_data:
             bbox_inches="tight",
         )
 
-    def rank_readme(self, top=300):
+    def rank_readme(self, top=0):
         with open(f"{self.dir}/README.md", "w") as f:
-            f.writelines(
-                f"<div align=center> <h1> :technologist: 전문연구요원 TOP {top} :technologist: </h1> </div>\n\n<div align=center>\n\n|업체명|현역 배정인원|현역 편입인원|현역 복무인원|\n|:-:|:-:|:-:|:-:|\n"
-            )
-            for name, a, b, c in self.ranked_data_org.values[:top]:
-                f.writelines(f"|{name}|{a}|{b}|{c}|\n")
+            if top == 0:
+                f.writelines(
+                    f"<div align=center> <h1> :technologist: 전문연구요원 현역 복무인원 순위 :technologist: </h1> </div>\n\n<div align=center>\n\n|업체명|현역 배정인원|현역 편입인원|현역 복무인원|\n|:-:|:-:|:-:|:-:|\n"
+                )
+                for name, a, b, c in self.ranked_data_org.values:
+                    f.writelines(
+                        f"|[{name}](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/ALL/time/{name.replace('(', '').replace(')', '').replace(' ', '')}.png)|{a}|{b}|{c}|\n"
+                    )
+            else:
+                f.writelines(
+                    f"<div align=center> <h1> :technologist: 전문연구요원 현역 복무인원 순위 TOP {top} :technologist: </h1> </div>\n\n<div align=center>\n\n|업체명|현역 배정인원|현역 편입인원|현역 복무인원|\n|:-:|:-:|:-:|:-:|\n"
+                )
+                for name, a, b, c in self.ranked_data_org.values[:top]:
+                    f.writelines(
+                        f"|[{name}](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/ALL/time/{name.replace('(', '').replace(')', '').replace(' ', '')}.png)|{a}|{b}|{c}|\n"
+                    )
             f.writelines("\n</div>")
 
-    # def plot_time(self, M=100, w=10):
-    #     time_data = pd.read_csv(
-    #         f"{self.dir}/time.tsv", sep="\t", header=None, encoding="utf-8"
-    #     )
+    def plot_time(self):
+        os.makedirs(f"{self.dir}/time", exist_ok=True)
+        time_data = pd.read_csv(
+            f"{self.dir}/time.tsv", sep="\t", header=None, encoding="utf-8"
+        )
+        for name in time_data.iloc[:, 1].unique():
+            self._twin_plot(time_data, name)
+            plt.savefig(
+                f"{self.dir}/time/{name.replace('(', '').replace(')', '').replace(' ', '')}.png",
+                dpi=300,
+                bbox_inches="tight",
+            )
+            plt.close("all")
+
+    def _twin_plot(self, data, name):
+        tmp = data[data.iloc[:, 1] == name]
+        x, y1, y2 = (
+            pd.to_datetime(tmp.iloc[:, 0], format="%Y%m%d"),
+            tmp.iloc[:, 3],
+            tmp.iloc[:, 2],
+        )
+        _, ax1 = plt.subplots(figsize=(20, 10))
+        plt.grid()
+        ax1.plot(x, y1, "b--", linewidth=2, marker="o", markersize=12)
+        ax1.set_xlabel("Time")
+        ax1.set_ylabel("현역 복무인원 [명]", color="b")
+        ax1.tick_params("y", colors="b")
+        ax2 = ax1.twinx()
+        ax2.plot(x, y2, "r-.", linewidth=2, marker="v", markersize=12)
+        ax2.set_ylabel("현역 편입인원 [명]", color="r")
+        ax2.tick_params("y", colors="r")
+        ax1.yaxis.set_major_locator(MaxNLocator(integer=True))
+        ax2.yaxis.set_major_locator(MaxNLocator(integer=True))
+        m = self.data[self.data["업체명"] == name]["현역 배정인원"].iloc[0]
+        plt.title(f"{name} (현역 배정인원: {m}명)")
 
 
 if __name__ == "__main__":
@@ -181,6 +224,7 @@ if __name__ == "__main__":
     vd.rank_vis("현역 복무인원")
     vd.rank_vis("현역 편입인원")
     vd.rank_readme()
+    vd.plot_time()
 
     # ----- NOTE: [석사 전문연구요원] ----- #
     vd = vis_data(file_name, data, 1)

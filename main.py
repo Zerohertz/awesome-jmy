@@ -21,6 +21,7 @@ if __name__ == "__main__":
         vd.rank_vis("현역 복무인원")
         vd.rank_vis("현역 편입인원")
         vd.rank_readme()
+        vd.plot_time()
 
         # ----- NOTE: [석사 전문연구요원] ----- #
         vd = vis_data(file_name, data, 1)
