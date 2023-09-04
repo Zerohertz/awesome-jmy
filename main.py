@@ -13,6 +13,7 @@ if __name__ == "__main__":
 
         # ----- NOTE: [전체 전문연구요원] ----- #
         vd = vis_data(file_name, data, 0)
+        vd.time_tsv()
         vd.pie_hist("연구분야", 3)
         vd.pie_hist("지방청", 3)
         vd.pie_hist("업종", 3)
@@ -23,6 +24,7 @@ if __name__ == "__main__":
 
         # ----- NOTE: [석사 전문연구요원] ----- #
         vd = vis_data(file_name, data, 1)
+        vd.time_tsv()
         vd.pie_hist("연구분야", 3)
         vd.pie_hist("지방청", 3)
         vd.pie_hist("위치", 2)
@@ -32,6 +34,7 @@ if __name__ == "__main__":
 
         # ----- NOTE: [박사 전문연구요원] ----- #
         vd = vis_data(file_name, data, 2)
+        vd.time_tsv()
         vd.pie_hist("연구분야", 3)
         vd.pie_hist("지방청", 3)
         vd.pie_hist("위치", 2)

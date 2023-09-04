@@ -33,7 +33,10 @@ jobs:
           rm ~/.cache/matplotlib -fr
 
       - name: Run Script
-        run: python main.py
+        run: |
+          rm prop/*/*.png
+          rm prop/*/*.md
+          python main.py
 
       - name: Move XLS File to data Directory
         run: |

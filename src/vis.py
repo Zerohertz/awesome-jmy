@@ -61,11 +61,13 @@ class vis_data:
         self.ranked_data_new = self.data.sort_values(
             by="현역 편입인원", ascending=False
         ).iloc[:, [1, 14, 15, 16]]
+        plt.rcParams["font.size"] = 15
+        plt.rcParams["font.family"] = "Do Hyeon"
+
+    def time_tsv(self):
         with open(f"{self.dir}/time.tsv", "a") as f:
             for name, _, a, b in self.ranked_data_org.values:
                 f.writelines(f"{self.time}\t{name}\t{a}\t{b}\n")
-        plt.rcParams["font.size"] = 15
-        plt.rcParams["font.family"] = "Do Hyeon"
 
     def pie_hist(self, tar, threshold=3):
         field_counts = self.data[tar].value_counts()

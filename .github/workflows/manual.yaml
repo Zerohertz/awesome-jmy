@@ -28,7 +28,10 @@ jobs:
           rm ~/.cache/matplotlib -fr
 
       - name: Run Script
-        run: python src/vis.py
+        run: |
+          rm prop/*/*.png
+          rm prop/*/*.md
+          python src/vis.py
 
       - name: Commit and Push
         run: |
