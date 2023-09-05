@@ -207,7 +207,7 @@ class vis_data:
                 left=self.ranked_data_new["현역 편입인원"][:top][::-1],
                 label="보충역 편입인원",
             )
-        plt.legend()
+        plt.legend(loc='lower right')
         MAX = bars_l[-1].get_width() + bars_r[-1].get_width()
         for l, r in zip(bars_l, bars_r):
             width_l = l.get_width()
@@ -325,7 +325,7 @@ class vis_data:
             plt.title(f"{name}\n(보충역 배정인원: {m1}명, 현역 배정인원: {m2}명)")
         except:
             plt.title(f"{name}\n(배정인원: X)")
-        plt.legend()
+        plt.legend(loc='lower right')
 
 
 if __name__ == "__main__":
