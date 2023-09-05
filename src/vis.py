@@ -59,20 +59,56 @@ class vis_data:
             .str.replace("서울특별시", "서울특별시 ")
             .str.replace("경기도", "경기도 ")
         )
+        self.data["복무인원"] = self.data["보충역 복무인원"] + self.data["현역 복무인원"]
+        self.data["편입인원"] = self.data["보충역 편입인원"] + self.data["현역 편입인원"]
         self.ranked_data_org = self.data.sort_values(
-            by=["현역 복무인원", "현역 편입인원", "업체명"], ascending=[False, False, True]
-        ).iloc[:, [1, 14, 15, 16]]
+            by=["복무인원", "업체명"], ascending=[False, True]
+        ).loc[
+            :,
+            [
+                "업체명",
+                "보충역 배정인원",
+                "보충역 편입인원",
+                "보충역 복무인원",
+                "현역 배정인원",
+                "현역 편입인원",
+                "현역 복무인원",
+            ],
+        ]
         self.ranked_data_new = self.data.sort_values(
-            by=["현역 편입인원", "현역 복무인원", "업체명"], ascending=[False, False, True]
-        ).iloc[:, [1, 14, 15, 16]]
+            by=["편입인원", "업체명"], ascending=[False, True]
+        ).loc[
+            :,
+            [
+                "업체명",
+                "보충역 배정인원",
+                "보충역 편입인원",
+                "보충역 복무인원",
+                "현역 배정인원",
+                "현역 편입인원",
+                "현역 복무인원",
+            ],
+        ]
         plt.rcParams["font.size"] = 15
         plt.rcParams["font.family"] = "Do Hyeon"
+        self.color_hist = {
+            "보충역 편입인원": "#6060ff",
+            "보충역 복무인원": "#c0c0f0",
+            "현역 편입인원": "#ff6060",
+            "현역 복무인원": "#f0c0c0",
+        }
+        self.color_plot = {
+            "보충역 편입인원": "#c0c0f0",
+            "보충역 복무인원": "#6060ff",
+            "현역 편입인원": "#f0c0c0",
+            "현역 복무인원": "#ff6060",
+        }
 
     def time_tsv(self):
         print("WRITE TIME SERIES TSV")
         with open(f"prop/time.tsv", "a") as f:
-            for name, _, a, b in self.ranked_data_org.values:
-                f.writelines(f"{self.time}\t{name}\t{a}\t{b}\n")
+            for name, _, a, b, _, c, d in self.ranked_data_org.values:
+                f.writelines(f"{self.time}\t{name}\t{a}\t{b}\t{c}\t{d}\n")
 
     def pie_hist(self, tar, threshold=3):
         print("PLOT PIE & HIST:\t", tar)
@@ -120,32 +156,66 @@ class vis_data:
         plt.title(f"{threshold}% 미만 {tar} 분포", fontsize=25)
         plt.savefig(f"{self.dir}/{tar}.png", dpi=300, bbox_inches="tight")
 
-    def rank_vis(self, by="현역 복무인원", top=30):
+    def rank_vis(self, by="복무인원", top=30):
         print("PLOT RANK:\t", by)
         plt.figure(figsize=(10, int(0.6 * top)))
         plt.grid(zorder=0)
-        colors = sns.color_palette("coolwarm", n_colors=top)
-        if by == "현역 복무인원":
-            bars = plt.barh(
+        if by == "복무인원":
+            bars_l = plt.barh(
                 self.ranked_data_org["업체명"][:top][::-1],
-                self.ranked_data_org[by][:top][::-1],
-                color=colors,
+                self.ranked_data_org["현역 복무인원"][:top][::-1],
+                color=self.color_hist["현역 복무인원"],
                 zorder=2,
+                label="현역 복무인원",
             )
-        elif by == "현역 편입인원":
-            bars = plt.barh(
+            plt.barh(
+                self.ranked_data_org["업체명"][:top][::-1],
+                self.ranked_data_org["현역 편입인원"][:top][::-1],
+                color=self.color_hist["현역 편입인원"],
+                zorder=2,
+                label="현역 편입인원",
+            )
+            bars_r = plt.barh(
+                self.ranked_data_org["업체명"][:top][::-1],
+                self.ranked_data_org["보충역 복무인원"][:top][::-1],
+                color=self.color_hist["보충역 복무인원"],
+                zorder=2,
+                left=self.ranked_data_org["현역 복무인원"][:top][::-1],
+                label="보충역 복무인원",
+            )
+            plt.barh(
+                self.ranked_data_org["업체명"][:top][::-1],
+                self.ranked_data_org["보충역 편입인원"][:top][::-1],
+                color=self.color_hist["보충역 편입인원"],
+                zorder=2,
+                left=self.ranked_data_org["현역 복무인원"][:top][::-1],
+                label="보충역 편입인원",
+            )
+        elif by == "편입인원":
+            bars_l = plt.barh(
                 self.ranked_data_new["업체명"][:top][::-1],
-                self.ranked_data_new[by][:top][::-1],
-                color=colors,
+                self.ranked_data_new["현역 편입인원"][:top][::-1],
+                color=self.color_hist["현역 편입인원"],
                 zorder=2,
+                label="현역 편입인원",
             )
-        MAX = bars[-1].get_width()
-        for bar in bars:
-            width = bar.get_width()
+            bars_r = plt.barh(
+                self.ranked_data_new["업체명"][:top][::-1],
+                self.ranked_data_new["보충역 편입인원"][:top][::-1],
+                color=self.color_hist["보충역 편입인원"],
+                zorder=2,
+                left=self.ranked_data_new["현역 편입인원"][:top][::-1],
+                label="보충역 편입인원",
+            )
+        plt.legend()
+        MAX = bars_l[-1].get_width() + bars_r[-1].get_width()
+        for l, r in zip(bars_l, bars_r):
+            width_l = l.get_width()
+            width_r = r.get_width()
             plt.text(
-                width + MAX * 0.01,
-                bar.get_y() + bar.get_height() / 4,
-                f"{width}명",
+                width_l + width_r + MAX * 0.01,
+                l.get_y() + l.get_height() / 4,
+                f"{width_l + width_r}명",
                 ha="left",
                 va="bottom",
             )
@@ -164,19 +234,19 @@ class vis_data:
         with open(f"{self.dir}/README.md", "w") as f:
             if top == 0:
                 f.writelines(
-                    f"<div align=center> <h1> :technologist: 전문연구요원 현역 복무인원 순위 :technologist: </h1> </div>\n\n<div align=center>\n\n|업체명|현역 배정인원|현역 편입인원|현역 복무인원|\n|:-:|:-:|:-:|:-:|\n"
+                    f"<div align=center> <h1> :technologist: 전문연구요원 복무인원 순위 :technologist: </h1> </div>\n\n<div align=center>\n\n|업체명|보충역 배정인원|보충역 편입인원|보충역 복무인원|현역 배정인원|현역 편입인원|현역 복무인원|\n|:-:|:-:|:-:|:-:|:-:|:-:|:-:|\n"
                 )
-                for name, a, b, c in self.ranked_data_org.values:
+                for name, a1, a2, a3, b1, b2, b3 in self.ranked_data_org.values:
                     f.writelines(
-                        f"|[{name}](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/{name.replace('(', '').replace(')', '').replace('/', '').replace(' ', '')}.png)|{a}|{b}|{c}|\n"
+                        f"|[{name}](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/{name.replace('(', '').replace(')', '').replace('/', '').replace(' ', '')}.png)|{a1}|{a2}|{a3}|{b1}|{b2}|{b3}|\n"
                     )
             else:
                 f.writelines(
-                    f"<div align=center> <h1> :technologist: 전문연구요원 현역 복무인원 순위 TOP {top} :technologist: </h1> </div>\n\n<div align=center>\n\n|업체명|현역 배정인원|현역 편입인원|현역 복무인원|\n|:-:|:-:|:-:|:-:|\n"
+                    f"<div align=center> <h1> :technologist: 전문연구요원 복무인원 순위 TOP {top} :technologist: </h1> </div>\n\n<div align=center>\n\n|업체명|보충역 배정인원|보충역 편입인원|보충역 복무인원|현역 배정인원|현역 편입인원|현역 복무인원|\n|:-:|:-:|:-:|:-:|:-:|:-:|:-:|\n"
                 )
-                for name, a, b, c in self.ranked_data_org.values[:top]:
+                for name, a1, a2, a3, b1, b2, b3 in self.ranked_data_org.values:
                     f.writelines(
-                        f"|[{name}](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/{name.replace('(', '').replace(')', '').replace('/', '').replace(' ', '')}.png)|{a}|{b}|{c}|\n"
+                        f"|[{name}](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/{name.replace('(', '').replace(')', '').replace('/', '').replace(' ', '')}.png)|{a1}|{a2}|{a3}|{b1}|{b2}|{b3}|\n"
                     )
             f.writelines("\n</div>")
 
@@ -187,7 +257,7 @@ class vis_data:
         )
         for name in time_data.iloc[:, 1].unique():
             print("PLOT TIME SERIES:\t", name)
-            self._twin_plot(time_data, name)
+            self._plot(time_data, name)
             plt.savefig(
                 f"prop/time/{name.replace('(', '').replace(')', '').replace('/', '').replace(' ', '')}.png",
                 dpi=100,
@@ -195,30 +265,67 @@ class vis_data:
             )
             plt.close("all")
 
-    def _twin_plot(self, data, name):
+    def _plot(self, data, name):
         tmp = data[data.iloc[:, 1] == name]
-        x, y1, y2 = (
+        x, y1, y2, y3, y4 = (
             pd.to_datetime(tmp.iloc[:, 0], format="%Y%m%d"),
-            tmp.iloc[:, 3],
             tmp.iloc[:, 2],
+            tmp.iloc[:, 3],
+            tmp.iloc[:, 4],
+            tmp.iloc[:, 5],
         )
-        _, ax1 = plt.subplots(figsize=(20, 10))
+        _, ax = plt.subplots(figsize=(20, 10))
         plt.grid()
-        ax1.plot(x, y1, "b--", linewidth=2, marker="o", markersize=12)
-        ax1.set_xlabel("Time")
-        ax1.set_ylabel("현역 복무인원 [명]", color="b")
-        ax1.tick_params("y", colors="b")
-        ax2 = ax1.twinx()
-        ax2.plot(x, y2, "r-.", linewidth=2, marker="v", markersize=12)
-        ax2.set_ylabel("현역 편입인원 [명]", color="r")
-        ax2.tick_params("y", colors="r")
-        ax1.yaxis.set_major_locator(MaxNLocator(integer=True))
-        ax2.yaxis.set_major_locator(MaxNLocator(integer=True))
+        plt.xlabel("Time")
+        plt.ylabel("인원 [명]")
+        plt.plot(
+            x,
+            y4,
+            color=self.color_plot["현역 복무인원"],
+            linestyle="-.",
+            linewidth=2,
+            marker="v",
+            markersize=12,
+            label="현역 복무인원",
+        )
+        plt.plot(
+            x,
+            y3,
+            color=self.color_plot["현역 편입인원"],
+            linestyle="--",
+            linewidth=2,
+            marker="o",
+            markersize=12,
+            label="현역 편입인원",
+        )
+        plt.plot(
+            x,
+            y2,
+            color=self.color_plot["보충역 복무인원"],
+            linestyle="-.",
+            linewidth=2,
+            marker="v",
+            markersize=12,
+            label="보충역 복무인원",
+        )
+        plt.plot(
+            x,
+            y1,
+            color=self.color_plot["보충역 편입인원"],
+            linestyle="--",
+            linewidth=2,
+            marker="o",
+            markersize=12,
+            label="보충역 편입인원",
+        )
+        ax.yaxis.set_major_locator(MaxNLocator(integer=True))
         try:
-            m = self.data[self.data["업체명"] == name]["현역 배정인원"].iloc[0]
-            plt.title(f"{name} (현역 배정인원: {m}명)")
+            m1 = self.data[self.data["업체명"] == name]["보충역 배정인원"].iloc[0]
+            m2 = self.data[self.data["업체명"] == name]["현역 배정인원"].iloc[0]
+            plt.title(f"{name}\n(보충역 배정인원: {m1}명, 현역 배정인원: {m2}명)")
         except:
-            plt.title(f"{name} (현역 배정인원: X)")
+            plt.title(f"{name}\n(배정인원: X)")
+        plt.legend()
 
 
 if __name__ == "__main__":
@@ -232,8 +339,8 @@ if __name__ == "__main__":
     vd.pie_hist("지방청", 3)
     vd.pie_hist("업종", 3)
     vd.pie_hist("위치", 2)
-    vd.rank_vis("현역 복무인원")
-    vd.rank_vis("현역 편입인원")
+    vd.rank_vis("복무인원")
+    vd.rank_vis("편입인원")
     vd.rank_readme()
     vd.plot_time()
 
@@ -242,8 +349,8 @@ if __name__ == "__main__":
     vd.pie_hist("연구분야", 3)
     vd.pie_hist("지방청", 3)
     vd.pie_hist("위치", 2)
-    vd.rank_vis("현역 복무인원")
-    vd.rank_vis("현역 편입인원")
+    vd.rank_vis("복무인원")
+    vd.rank_vis("편입인원")
     vd.rank_readme()
 
     # ----- NOTE: [박사 전문연구요원] ----- #
@@ -251,6 +358,6 @@ if __name__ == "__main__":
     vd.pie_hist("연구분야", 3)
     vd.pie_hist("지방청", 3)
     vd.pie_hist("위치", 2)
-    vd.rank_vis("현역 복무인원")
-    vd.rank_vis("현역 편입인원")
+    vd.rank_vis("복무인원")
+    vd.rank_vis("편입인원")
     vd.rank_readme()

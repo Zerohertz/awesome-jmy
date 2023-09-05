@@ -18,8 +18,8 @@ if __name__ == "__main__":
         vd.pie_hist("지방청", 3)
         vd.pie_hist("업종", 3)
         vd.pie_hist("위치", 2)
-        vd.rank_vis("현역 복무인원")
-        vd.rank_vis("현역 편입인원")
+        vd.rank_vis("복무인원")
+        vd.rank_vis("편입인원")
         vd.rank_readme()
         vd.plot_time()
 
@@ -28,8 +28,8 @@ if __name__ == "__main__":
         vd.pie_hist("연구분야", 3)
         vd.pie_hist("지방청", 3)
         vd.pie_hist("위치", 2)
-        vd.rank_vis("현역 복무인원")
-        vd.rank_vis("현역 편입인원")
+        vd.rank_vis("복무인원")
+        vd.rank_vis("편입인원")
         vd.rank_readme()
 
         # ----- NOTE: [박사 전문연구요원] ----- #
@@ -37,8 +37,8 @@ if __name__ == "__main__":
         vd.pie_hist("연구분야", 3)
         vd.pie_hist("지방청", 3)
         vd.pie_hist("위치", 2)
-        vd.rank_vis("현역 복무인원")
-        vd.rank_vis("현역 편입인원")
+        vd.rank_vis("복무인원")
+        vd.rank_vis("편입인원")
         vd.rank_readme()
 
     except Exception as e:
