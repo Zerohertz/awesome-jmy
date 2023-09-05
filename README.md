@@ -25,8 +25,8 @@
     <img src="prop/MS/연구분야.png">
     <img src="prop/MS/위치.png">
     <img src="prop/MS/지방청.png">
-    <img src="prop/MS/TOP_30_현역_편입인원.png">
-    <img src="prop/MS/TOP_30_현역_복무인원.png">
+    <img src="prop/MS/TOP_30_복무인원.png">
+    <img src="prop/MS/TOP_30_편입인원.png">
     </br>
     <a href="https://github.com/Zerohertz/awesome-jmy/blob/main/prop/MS/README.md"> :pencil: 표로 보기 :pencil: </a>
   </div>
@@ -40,8 +40,8 @@
     <img src="prop/PhD/연구분야.png">
     <img src="prop/PhD/위치.png">
     <img src="prop/PhD/지방청.png">
-    <img src="prop/PhD/TOP_30_현역_편입인원.png">
-    <img src="prop/PhD/TOP_30_현역_복무인원.png">
+    <img src="prop/PhD/TOP_30_복무인원.png">
+    <img src="prop/PhD/TOP_30_편입인원.png">
     </br>
     <a href="https://github.com/Zerohertz/awesome-jmy/blob/main/prop/PhD/README.md"> :pencil: 표로 보기 :pencil: </a>
   </div>
@@ -56,8 +56,8 @@
     <img src="prop/ALL/업종.png">
     <img src="prop/ALL/위치.png">
     <img src="prop/ALL/지방청.png">
-    <img src="prop/ALL/TOP_30_현역_편입인원.png">
-    <img src="prop/ALL/TOP_30_현역_복무인원.png">
+    <img src="prop/ALL/TOP_30_복무인원.png">
+    <img src="prop/ALL/TOP_30_편입인원.png">
     </br>
     <a href="https://github.com/Zerohertz/awesome-jmy/blob/main/prop/ALL/README.md"> :pencil: 표로 보기 :pencil: </a>
   </div>
