@@ -27,7 +27,7 @@ jobs:
           sudo apt-get purge google-chrome-stable
           sudo apt-get purge chromium-browser
           sudo apt-get install -y chromium-browser
-          pip install requests pandas xlrd selenium==3.141.0 seaborn matplotlib
+          pip install requests pandas xlrd selenium==4.11.0 seaborn matplotlib
           sudo cp prop/DoHyeon-Regular.ttf /usr/share/fonts/
           sudo fc-cache -f -v
           rm ~/.cache/matplotlib -fr
