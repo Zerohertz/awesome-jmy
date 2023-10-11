@@ -1,7 +1,21 @@
+import json
+import os
 from glob import glob
 
 import pandas as pd
+import requests
+
 from src import download_data, vis_data
+
+
+def _send_discord_message(content):
+    data = {"content": content}
+    headers = {"Content-Type": "application/json"}
+    response = requests.post(
+        os.environ.get("WEBHOOK"), data=json.dumps(data), headers=headers
+    )
+    return response
+
 
 if __name__ == "__main__":
     try:
@@ -43,7 +57,7 @@ if __name__ == "__main__":
 
     except Exception as e:
         print(e)
-        dd._send_discord_message(
+        _send_discord_message(
             ":warning:" * 10
             + "ERROR!!!"
             + ":warning:" * 10

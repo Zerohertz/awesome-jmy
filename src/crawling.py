@@ -1,5 +1,3 @@
-import json
-import os
 import time
 
 import requests
@@ -17,7 +15,6 @@ class download_data:
             "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36"
         )
         self.browser = webdriver.Chrome(options)
-        self.webhook = os.environ.get("WEBHOOK")
 
     def main(self):
         # 산업지원 병역일터 접속
@@ -33,9 +30,3 @@ class download_data:
     def _xpath_click(self, element):
         element = self.browser.find_element("xpath", element)
         element.click()
-
-    def _send_discord_message(self, content):
-        data = {"content": content}
-        headers = {"Content-Type": "application/json"}
-        response = requests.post(self.webhook, data=json.dumps(data), headers=headers)
-        return response
