@@ -24,9 +24,9 @@ jobs:
 
       - name: Install Dependency
         run: |
-          sudo apt purge google-chrome-stable
-          sudo apt purge chromium-browser
-          sudo apt install -y chromium-browser
+          sudo apt-get purge google-chrome-stable
+          sudo apt-get purge chromium-browser
+          sudo apt-get install -y chromium-browser
           pip install requests pandas xlrd selenium seaborn matplotlib
           sudo cp prop/DoHyeon-Regular.ttf /usr/share/fonts/
           sudo fc-cache -f -v
