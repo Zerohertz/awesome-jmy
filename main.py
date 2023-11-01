@@ -1,10 +1,9 @@
 import json
 import os
-from glob import glob
+from datetime import datetime
 
 import pandas as pd
 import requests
-
 from src import download_data, vis_data
 
 
@@ -20,9 +19,10 @@ def _send_discord_message(content):
 if __name__ == "__main__":
     try:
         # ----- NOTE: [Data Download & Load] ----- #
-        dd = download_data()
-        dd.main()
-        file_name = glob("*.xls")[0]
+        now = datetime.now()
+        ymd = now.strftime("%Y%m%d")
+        file_name = f"병역지정업체검색_{ymd}.xls"
+        download_data(file_name)
         data = pd.read_excel(file_name)
 
         # ----- NOTE: [전체 전문연구요원] ----- #
