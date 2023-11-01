@@ -4,7 +4,7 @@
 
 |업체명|보충역 배정인원|보충역 편입인원|보충역 복무인원|현역 배정인원|현역 편입인원|현역 복무인원|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[서울대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교대학원.png)|0|17|148|600|83|741|
+|[서울대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교대학원.png)|0|17|147|600|83|740|
 |[한국과학기술원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국과학기술원.png)|0|45|160|600|252|671|
 |[포항공과대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/포항공과대학교대학원.png)|795|14|63|600|82|420|
 |[연세대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교대학원.png)|0|10|56|600|35|209|
@@ -16,40 +16,39 @@
 |[성균관대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교대학원.png)|0|5|28|99|10|45|
 |[경북대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/경북대학교대학원.png)|795|3|19|600|8|44|
 |[부산대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/부산대학교대학원.png)|50|4|15|100|6|43|
-|[한국과학기술연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국과학기술연구원.png)|0|3|7|0|18|23|
+|[한국과학기술연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국과학기술연구원.png)|0|3|7|0|17|22|
 |[과학기술연합대학원대학교](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/과학기술연합대학원대학교.png)|0|1|7|600|1|20|
 |[전남대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/전남대학교대학원.png)|372|1|7|0|5|19|
 |[서울대학교 융합과학기술대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교융합과학기술대학원.png)|0|0|1|600|5|23|
-|[서울대학교 기초과학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교기초과학연구원.png)|0|0|0|5|10|23|
 |[중앙대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/중앙대학교대학원.png)|0|1|14|600|4|8|
 |[충남대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/충남대학교대학원.png)|0|2|5|600|3|17|
-|[한양대학교공학기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한양대학교공학기술연구소.png)|0|2|2|6|1|19|
+|[서울대학교 기초과학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교기초과학연구원.png)|0|0|0|5|10|20|
 |[건국대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/건국대학교대학원.png)|0|1|5|600|2|13|
 |[아주대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/아주대학교대학원.png)|0|2|11|99|2|7|
 |[서강대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서강대학교대학원.png)|0|0|3|600|1|14|
 |[한국과학기술원경영대학](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국과학기술원경영대학.png)|0|0|2|258|6|15|
-|[성균관대학교 기계기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교기계기술연구소.png)|0|1|3|2|1|12|
+|[성균관대학교 기계기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교기계기술연구소.png)|0|1|3|2|2|13|
+|[한양대학교공학기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한양대학교공학기술연구소.png)|0|2|2|6|1|13|
 |[서울대학교병원의생명연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교병원의생명연구원.png)|0|2|3|0|3|11|
-|[연세대학교 자연과학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교자연과학연구원.png)|0|2|2|3|1|12|
 |[전북대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/전북대학교대학원.png)|233|1|4|600|5|10|
 |[고려대학교 정보통신기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/고려대학교정보통신기술연구소.png)|0|1|5|1|1|8|
 |[연세대학교 산업기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교산업기술연구소.png)|0|1|1|1|9|12|
+|[연세대학교 자연과학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교자연과학연구원.png)|0|2|2|3|1|11|
 |[한국과학기술원응용과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국과학기술원응용과학연구소.png)|0|1|1|0|10|12|
 |[한국과학기술원정보전자연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국과학기술원정보전자연구소.png)|0|2|2|0|10|11|
 |[포항공과대학교 친환경소재대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/포항공과대학교친환경소재대학원.png)|795|0|0|600|0|12|
 |[강원대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/강원대학교대학원.png)|999|1|2|999|1|9|
-|[서울대학교 의학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교의학연구원.png)|0|2|3|2|3|8|
+|[고려대학교 정보보호연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/고려대학교정보보호연구원.png)|0|0|0|4|4|11|
 |[서울시립대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울시립대학교대학원.png)|0|1|5|600|1|6|
-|[연세대학교 생명시스템연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교생명시스템연구원.png)|0|0|1|1|1|10|
 |[한국화학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국화학연구원.png)|0|0|0|0|10|11|
 |[경희대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/경희대학교대학원.png)|0|0|3|600|1|7|
 |[고려대학교 반도체기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/고려대학교반도체기술연구소.png)|0|2|3|0|0|7|
-|[고려대학교 첨단소재부품개발연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/고려대학교첨단소재부품개발연구소.png)|0|0|1|2|1|9|
+|[고려대학교 첨단소재부품개발연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/고려대학교첨단소재부품개발연구소.png)|0|0|1|2|2|9|
+|[서울대학교 의학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교의학연구원.png)|0|2|3|2|3|7|
 |[성균관대학교 컨버젼스연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교컨버젼스연구소.png)|0|0|1|4|1|9|
 |[인하대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/인하대학교대학원.png)|0|1|3|999|0|7|
 |[동국대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/동국대학교대학원.png)|0|1|5|600|2|4|
 |[서울대학교 건설환경종합연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교건설환경종합연구소.png)|0|0|1|1|5|8|
-|[서울대학교 정밀기계설계공동연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교정밀기계설계공동연구소.png)|0|0|0|1|4|9|
 |[서울대학교공학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교공학연구원.png)|0|1|2|0|6|7|
 |[서울대학교반도체공동연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교반도체공동연구소.png)|0|2|2|2|6|7|
 |[성균관대학교 기초과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교기초과학연구소.png)|0|0|0|2|1|9|
@@ -57,51 +56,51 @@
 |[연세대학교대학원 미래캠퍼스](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교대학원미래캠퍼스.png)|999|0|1|999|0|8|
 |[중앙대학교 신기능이미징연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/중앙대학교신기능이미징연구소.png)|0|0|0|1|1|9|
 |[(포항공대)미래IT융합연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/포항공대미래IT융합연구원.png)|795|0|1|0|6|7|
-|[고려대학교 정보보호연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/고려대학교정보보호연구원.png)|0|0|0|4|1|8|
 |[고려대학교 컴퓨터정보통신연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/고려대학교컴퓨터정보통신연구소.png)|0|0|0|1|2|8|
 |[국방과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/국방과학연구소.png)|0|0|1|0|2|7|
-|[서울대학교 농업생명과학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교농업생명과학연구원.png)|0|0|2|1|3|6|
 |[서울대학교 신소재공동연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교신소재공동연구소.png)|0|0|0|1|6|8|
+|[서울대학교 정밀기계설계공동연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교정밀기계설계공동연구소.png)|0|0|0|1|4|8|
 |[서울대학교 종합약학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교종합약학연구소.png)|0|0|1|1|2|7|
 |[한국과학기술원부설고등과학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국과학기술원부설고등과학원.png)|0|0|0|0|6|8|
 |[한국전자통신연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국전자통신연구원.png)|0|0|0|0|5|8|
-|[한양대학교 디스플레이·반도체공학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한양대학교디스플레이·반도체공학연구소.png)|0|0|0|2|2|8|
-|[한양대학교 산업과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한양대학교산업과학연구소.png)|0|0|0|0|0|8|
 |[(주)넥슨게임즈 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주넥슨게임즈기업부설연구소.png)|0|0|0|0|0|7|
 |[고려대학교 기초과학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/고려대학교기초과학연구원.png)|0|2|2|1|2|5|
 |[고려대학교 생명공학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/고려대학교생명공학연구소.png)|0|0|0|0|0|7|
-|[기초과학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/기초과학연구원.png)|0|0|0|0|5|7|
+|[서울대학교 농업생명과학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교농업생명과학연구원.png)|0|0|2|1|2|5|
 |[서울대학교 자동화시스템공동연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교자동화시스템공동연구소.png)|0|0|0|1|3|7|
+|[성균관대학교 성균나노과학기술원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교성균나노과학기술원.png)|0|0|1|2|3|6|
+|[성균관대학교 첨단소재기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교첨단소재기술연구소.png)|0|0|0|2|2|7|
+|[연세대학교 생명시스템연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교생명시스템연구원.png)|0|0|1|1|1|6|
 |[가천대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/가천대학교대학원.png)|0|0|4|99|0|2|
 |[고려대학교 KU-KIST 융합대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/고려대학교KU-KIST융합대학원.png)|0|1|3|600|0|3|
 |[고려대학교 공학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/고려대학교공학연구원.png)|0|0|0|1|2|6|
 |[고려대학교정보보호대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/고려대학교정보보호대학원.png)|0|1|5|600|1|1|
 |[국가보안기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/국가보안기술연구소.png)|0|0|0|0|0|6|
 |[국민대학교자동차공학전문대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/국민대학교자동차공학전문대학원.png)|0|1|4|600|0|2|
+|[기초과학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/기초과학연구원.png)|0|0|0|0|5|6|
 |[부경대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/부경대학교대학원.png)|20|0|2|20|1|4|
 |[성균관대학교 산업전자응용연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교산업전자응용연구소.png)|0|0|1|2|3|5|
-|[성균관대학교 성균나노과학기술원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교성균나노과학기술원.png)|0|0|1|3|2|5|
-|[성균관대학교 첨단소재기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교첨단소재기술연구소.png)|0|0|0|2|1|6|
-|[성균관대학교 화공융합기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교화공융합기술연구소.png)|0|0|0|2|1|6|
-|[성균관대학교정보통신기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교정보통신기술연구소.png)|0|0|0|2|1|6|
 |[울산과학기술원 기초과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/울산과학기술원기초과학연구소.png)|0|0|0|0|1|6|
 |[충북대학교 약학대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/충북대학교약학대학원.png)|0|0|0|999|0|6|
 |[충북대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/충북대학교대학원.png)|0|1|3|999|1|3|
-|[포항공과대학교기초과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/포항공과대학교기초과학연구소.png)|795|1|1|1|5|5|
-|[한국표준과학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국표준과학연구원.png)|0|0|0|0|3|6|
+|[한양대학교 산업과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한양대학교산업과학연구소.png)|0|0|0|0|0|6|
 |[경희대대학원(국제캠퍼스)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/경희대대학원국제캠퍼스.png)|0|1|2|99|1|3|
 |[고려대학교자연과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/고려대학교자연과학연구소.png)|0|0|4|0|0|1|
 |[단국대학교대학원 천안캠퍼스](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/단국대학교대학원천안캠퍼스.png)|0|0|2|600|1|3|
 |[대구경북과학기술원 로봇및기계전자공학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/대구경북과학기술원로봇및기계전자공학연구소.png)|795|0|0|0|0|5|
 |[대구경북과학기술원 한국뇌연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/대구경북과학기술원한국뇌연구원.png)|795|1|1|0|1|4|
 |[분자설계연구소(사단법인)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/분자설계연구소사단법인.png)|0|0|1|0|0|4|
+|[성균관대학교정보통신기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교정보통신기술연구소.png)|0|0|0|2|2|5|
 |[세종대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/세종대학교대학원.png)|0|0|3|600|1|2|
 |[연세대학교 나노과학기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교나노과학기술연구소.png)|0|0|0|1|4|5|
 |[연세대학교 차세대융복합에너지물질특화연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교차세대융복합에너지물질특화연구센터.png)|0|0|0|1|3|5|
 |[울산과학기술원전기전자컴퓨터공학](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/울산과학기술원전기전자컴퓨터공학.png)|0|0|0|0|0|5|
+|[포항공과대학교기초과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/포항공과대학교기초과학연구소.png)|795|0|0|1|5|5|
 |[한국국방연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국국방연구원.png)|0|0|0|0|2|5|
 |[한국기술교육대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국기술교육대학교대학원.png)|0|0|2|600|1|3|
 |[한국재료연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국재료연구원.png)|605|0|0|0|3|5|
+|[한국표준과학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국표준과학연구원.png)|0|0|0|0|3|5|
+|[한양대학교 디스플레이·반도체공학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한양대학교디스플레이·반도체공학연구소.png)|0|0|0|2|3|5|
 |[한양대학교 의공학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한양대학교의공학연구소.png)|0|0|0|3|1|5|
 |[(포항공과대학교)포항가속기연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/포항공과대학교포항가속기연구소.png)|795|1|1|1|0|3|
 |[Naver R&D Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/NaverR&DCenter.png)|0|0|1|0|0|3|
@@ -112,14 +111,12 @@
 |[단국대조직재생공학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/단국대조직재생공학연구소.png)|0|0|0|0|0|4|
 |[대구경북과학기술원 정보통신융합연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/대구경북과학기술원정보통신융합연구소.png)|795|0|0|0|1|4|
 |[매크로분자 미래소재연구소(성균관대)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/매크로분자미래소재연구소성균관대.png)|0|0|0|0|1|4|
-|[삼성전자메모리연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼성전자메모리연구소.png)|0|0|1|0|2|3|
 |[서강대학교 기초과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서강대학교기초과학연구소.png)|0|0|1|1|1|3|
 |[서울대학교 뉴미디어통신공동연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교뉴미디어통신공동연구소.png)|0|0|0|1|1|4|
 |[서울대학교차세대융합기술연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교차세대융합기술연구원.png)|0|0|0|1|1|4|
-|[서울대학교컴퓨터연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교컴퓨터연구소.png)|0|0|0|1|2|4|
 |[성균관대학교 계면연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교계면연구센터.png)|0|0|0|1|1|4|
+|[성균관대학교 화공융합기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교화공융합기술연구소.png)|0|0|0|1|1|4|
 |[아주대기초과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/아주대기초과학연구소.png)|0|0|1|2|1|3|
-|[아주대학교 분자과학기술연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/아주대학교분자과학기술연구센터.png)|0|0|0|1|1|4|
 |[울산과학기술원 기계항공및원자력공학연구부](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/울산과학기술원기계항공및원자력공학연구부.png)|0|0|0|0|0|4|
 |[이화여자대학교 나노바이오에너지소재센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/이화여자대학교나노바이오에너지소재센터.png)|0|0|0|2|1|4|
 |[차의과학대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/차의과학대학교대학원.png)|2|0|4|0|0|0|
@@ -127,9 +124,9 @@
 |[한국과학기술연구원 전북분원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국과학기술연구원전북분원.png)|233|0|0|0|1|4|
 |[한국과학기술원기계기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국과학기술원기계기술연구소.png)|0|1|1|0|3|3|
 |[한국과학기술원자연과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국과학기술원자연과학연구소.png)|0|0|0|0|3|4|
-|[한국기계연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국기계연구원.png)|0|0|0|0|1|4|
 |[한국기초과학지원연구원서울센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국기초과학지원연구원서울센터.png)|0|0|1|0|1|3|
 |[한국정보통신기술협회](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국정보통신기술협회.png)|0|0|1|0|0|3|
+|[한국항공대학교 항공우주산업기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국항공대학교항공우주산업기술연구소.png)|0|0|0|2|1|4|
 |[홍익대학교 과학기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/홍익대학교과학기술연구소.png)|0|0|0|1|1|4|
 |[가톨릭대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/가톨릭대학교대학원.png)|0|0|1|999|0|2|
 |[가톨릭대학교대학원(성의교정)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/가톨릭대학교대학원성의교정.png)|0|0|2|600|0|1|
@@ -145,16 +142,17 @@
 |[네이버랩스(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/네이버랩스주기업부설연구소.png)|0|0|1|0|0|2|
 |[넷마블(주) R&D Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/넷마블주R&DCenter.png)|0|0|0|0|0|3|
 |[삼성전자(주)SamsungResearch(연구소)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼성전자주SamsungResearch연구소.png)|0|0|1|0|1|2|
-|[삼성전자반도체연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼성전자반도체연구소.png)|0|0|1|0|0|2|
+|[삼성전자메모리연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼성전자메모리연구소.png)|0|0|0|0|2|3|
 |[서강대학교 C1가스리파이너리연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서강대학교C1가스리파이너리연구소.png)|0|0|1|0|0|2|
 |[서울과학기술대학교일반대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울과학기술대학교일반대학원.png)|0|0|0|600|1|3|
 |[서울대학교 에너지자원신기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교에너지자원신기술연구소.png)|0|0|0|0|0|3|
+|[서울대학교컴퓨터연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교컴퓨터연구소.png)|0|0|0|1|2|3|
 |[서울시립대학교 자연과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울시립대학교자연과학연구소.png)|0|0|0|2|0|3|
-|[성균관대학교 나노구조물리연구단](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교나노구조물리연구단.png)|0|0|0|1|1|3|
 |[성균관대학교 뇌과학이미징연구단](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교뇌과학이미징연구단.png)|0|0|0|1|2|3|
 |[성균관대학교 신개념융복합에너지과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교신개념융복합에너지과학연구소.png)|0|0|0|1|1|3|
 |[성균관대학교 양자생명물리과학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교양자생명물리과학원.png)|0|0|0|1|2|3|
 |[숭실대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/숭실대학교대학원.png)|0|0|1|600|0|2|
+|[아주대학교 분자과학기술연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/아주대학교분자과학기술연구센터.png)|0|0|0|1|1|3|
 |[에피지놈다이나믹스제어연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/에피지놈다이나믹스제어연구센터.png)|0|1|1|0|0|2|
 |[연세대학교 비아이티마이크로팹연구](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교비아이티마이크로팹연구.png)|0|0|0|0|1|3|
 |[연세대학교 중소기업산학협력센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교중소기업산학협력센터.png)|0|0|0|1|1|3|
@@ -163,20 +161,18 @@
 |[울산과학기술원도시환경공학연구부](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/울산과학기술원도시환경공학연구부.png)|0|0|0|0|1|3|
 |[인하대학교산업과학기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/인하대학교산업과학기술연구소.png)|0|0|1|1|1|2|
 |[충남대학교 농업과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/충남대학교농업과학연구소.png)|0|0|1|1|1|2|
-|[패턴집적형능동폴리머소재센터(연세대)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/패턴집적형능동폴리머소재센터연세대.png)|0|0|0|0|0|3|
 |[포항공과대학교고분자연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/포항공과대학교고분자연구소.png)|795|0|0|1|2|3|
-|[한국과학기술연구원강릉분원천연물연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국과학기술연구원강릉분원천연물연구소.png)|0|0|0|0|0|3|
 |[한국과학기술정보연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국과학기술정보연구원.png)|0|0|0|0|1|3|
+|[한국기계연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국기계연구원.png)|0|0|0|0|1|3|
 |[한국기초과학지원연구원 오창센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국기초과학지원연구원오창센터.png)|0|0|0|0|0|3|
 |[한국생명공학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국생명공학연구원.png)|0|0|0|0|3|3|
 |[한국생명공학연구원(분사무소)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국생명공학연구원분사무소.png)|0|0|0|0|0|3|
 |[한국생산기술연구원(천안)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국생산기술연구원천안.png)|0|0|0|0|0|3|
 |[한국외국어대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국외국어대학교대학원.png)|0|0|1|99|2|2|
 |[한국천문연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국천문연구원.png)|0|0|0|0|1|3|
-|[한국항공대학교 항공우주산업기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국항공대학교항공우주산업기술연구소.png)|0|0|0|2|0|3|
-|[한국항공대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국항공대학교대학원.png)|0|0|1|0|1|2|
 |[한국해양대학교부설수중운동체특화연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국해양대학교부설수중운동체특화연구센터.png)|0|0|0|0|0|3|
 |[한동대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한동대학교대학원.png)|795|0|1|600|1|2|
+|[한양대학교 자연과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한양대학교자연과학연구소.png)|0|0|0|0|1|3|
 |[한양대학교 전기정보통신기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한양대학교전기정보통신기술연구소.png)|0|0|0|0|0|3|
 |[항공재료연구센터(포항공대)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/항공재료연구센터포항공대.png)|795|0|0|0|3|3|
 |[(주)DB하이텍 부천기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주DB하이텍부천기술연구소.png)|0|1|2|0|0|0|
@@ -185,8 +181,8 @@
 |[(주)우아한형제들 R&D Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주우아한형제들R&DCenter.png)|0|0|2|0|0|0|
 |[(주)카카오 R&D Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주카카오R&DCenter.png)|0|0|2|0|0|0|
 |[CJ바이오사이언스(주) 생명정보 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/CJ바이오사이언스주생명정보연구소.png)|0|0|2|0|0|0|
+|[HD한국조선해양(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/HD한국조선해양주기업부설연구소.png)|0|1|2|0|0|0|
 |[KAIST연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/KAIST연구원.png)|0|0|0|0|0|2|
-|[SK하이닉스메모리연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/SK하이닉스메모리연구소.png)|0|0|2|0|0|0|
 |[가천대학교 대학원 메디컬캠퍼스](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/가천대학교대학원메디컬캠퍼스.png)|0|0|2|999|0|0|
 |[건양대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/건양대학교대학원.png)|0|0|1|600|0|1|
 |[건양대학교명곡의과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/건양대학교명곡의과학연구소.png)|0|1|1|1|0|1|
@@ -199,11 +195,13 @@
 |[대구경북과학기술원 융합연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/대구경북과학기술원융합연구원.png)|795|0|1|0|0|1|
 |[동아대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/동아대학교대학원.png)|10|0|2|10|0|0|
 |[부산대학교 기계기술연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/부산대학교기계기술연구원.png)|0|0|0|0|0|2|
+|[삼성전자반도체연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼성전자반도체연구소.png)|0|0|1|0|0|1|
 |[서강대학교 바이오융합기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서강대학교바이오융합기술연구소.png)|0|0|0|1|1|2|
 |[서울대그린바이오과학기술연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대그린바이오과학기술연구원.png)|0|0|0|0|0|2|
 |[서울대학교 보건환경연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교보건환경연구소.png)|0|0|0|1|1|2|
 |[서울대학교 전력연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교전력연구소.png)|0|1|1|0|1|1|
-|[성균관대학교인공지능융합원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교인공지능융합원.png)|0|0|0|5|2|2|
+|[성균관대학교 나노구조물리연구단](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교나노구조물리연구단.png)|0|0|0|1|1|2|
+|[성균관대학교인공지능융합원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교인공지능융합원.png)|0|0|0|3|2|2|
 |[아주대학교 미래전투체계 네트워크기술 특화연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/아주대학교미래전투체계네트워크기술특화연구센터.png)|0|0|1|0|0|1|
 |[엘지디스플레이(주)연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/엘지디스플레이주연구소.png)|0|0|1|0|1|1|
 |[연세대학교 기후변화적응형사회기반](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교기후변화적응형사회기반.png)|0|0|0|1|1|2|
@@ -216,27 +214,26 @@
 |[제주대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/제주대학교대학원.png)|0|1|2|0|0|0|
 |[파동에너지극한제어연구단(재단법인)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/파동에너지극한제어연구단재단법인.png)|0|0|0|0|0|2|
 |[포항산업과학연구원(재)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/포항산업과학연구원재.png)|795|1|1|0|1|1|
+|[한국과학기술연구원강릉분원천연물연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국과학기술연구원강릉분원천연물연구소.png)|0|0|0|0|0|2|
 |[한국기초과학지원연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국기초과학지원연구원.png)|0|0|0|0|0|2|
 |[한국생명공학연구원 전북분원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국생명공학연구원전북분원.png)|233|0|0|0|0|2|
 |[한국생산기술연구원(김제)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국생산기술연구원김제.png)|233|0|1|0|0|1|
 |[한국생산기술연구원대경지역본부](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국생산기술연구원대경지역본부.png)|795|0|0|0|0|2|
 |[한국세라믹기술원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국세라믹기술원.png)|605|0|0|0|0|2|
 |[한국원자력의학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국원자력의학원.png)|0|0|0|0|0|2|
+|[한국항공대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국항공대학교대학원.png)|0|0|1|0|0|1|
 |[한국해양과학기술원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국해양과학기술원.png)|0|0|0|0|0|2|
-|[한국해양과학기술원부설극지연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국해양과학기술원부설극지연구소.png)|0|0|0|0|0|2|
 |[한국해양과학기술원선박해양플랜트연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국해양과학기술원선박해양플랜트연구소.png)|0|0|1|0|0|1|
 |[한국핵융합에너지연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국핵융합에너지연구원.png)|0|0|0|0|0|2|
 |[한국화학연구원부설 안전성평가연구](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국화학연구원부설안전성평가연구.png)|0|0|0|0|1|2|
 |[한국화학연구원정밀바이오화학연구본부](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국화학연구원정밀바이오화학연구본부.png)|0|0|0|0|0|2|
 |[한양대학교 기계기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한양대학교기계기술연구소.png)|0|0|0|0|0|2|
-|[한양대학교 자연과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한양대학교자연과학연구소.png)|0|0|0|0|0|2|
-|[현대모비스(주)연구개발본부](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/현대모비스주연구개발본부.png)|0|0|1|0|1|1|
 |[(금오공과대) ICT융합특성화연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/금오공과대ICT융합특성화연구센터.png)|795|0|0|0|0|1|
 |[(재)나노기반소프트일렉트로닉스연구](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/재나노기반소프트일렉트로닉스연구.png)|795|0|0|0|0|1|
 |[(재)막스플랑크/포스텍연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/재막스플랑크포스텍연구소.png)|795|0|0|0|0|1|
 |[(주)DB하이텍 상우기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주DB하이텍상우기술연구소.png)|0|0|0|0|0|1|
 |[(주)카카오브레인 인공지능연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주카카오브레인인공지능연구소.png)|0|0|0|0|1|1|
-|[HD한국조선해양(주) 기계전기연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/HD한국조선해양주기계전기연구소.png)|0|0|1|0|0|0|
+|[SK하이닉스메모리연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/SK하이닉스메모리연구소.png)|0|0|1|0|0|0|
 |[SK하이닉스제품개발연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/SK하이닉스제품개발연구소.png)|0|0|1|0|0|0|
 |[가천대학교암당뇨연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/가천대학교암당뇨연구원.png)|0|0|0|0|0|1|
 |[강원대학교 생명과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/강원대학교생명과학연구소.png)|0|0|0|0|0|1|
@@ -269,11 +266,9 @@
 |[바이오 신약 혁신소재 융합 선도연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/바이오신약혁신소재융합선도연구센터.png)|0|0|0|0|1|1|
 |[부산대학교병원 의생명연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/부산대학교병원의생명연구원.png)|0|0|0|0|0|1|
 |[삼성디스플레이AMLCD연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼성디스플레이AMLCD연구소.png)|0|0|1|0|0|0|
-|[삼성에스디에스연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼성에스디에스연구소.png)|0|0|0|0|1|1|
 |[삼성전자(주)SAIT](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼성전자주SAIT.png)|0|0|1|0|0|0|
 |[삼성전자디지털영상연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼성전자디지털영상연구소.png)|0|0|1|0|0|0|
 |[서강대학교 바이오계면연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서강대학교바이오계면연구소.png)|0|0|0|1|1|1|
-|[서강대학교 스마트설계생산기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서강대학교스마트설계생산기술연구소.png)|0|0|0|0|0|1|
 |[서울대학교 국방생체모방자율로봇특화연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교국방생체모방자율로봇특화연구센터.png)|0|0|0|0|0|1|
 |[서울대학교 데이터사이언스대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교데이터사이언스대학원.png)|0|0|0|600|0|1|
 |[서울대학교 수의과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교수의과학연구소.png)|0|0|0|0|1|1|
@@ -287,7 +282,6 @@
 |[숭실대학교 기초과학융합연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/숭실대학교기초과학융합연구소.png)|0|0|0|1|1|1|
 |[숭실대학교 우주물질연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/숭실대학교우주물질연구소.png)|0|0|0|1|1|1|
 |[아주대공학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/아주대공학연구소.png)|0|0|0|0|0|1|
-|[에이치디한국조선해양(주)종합연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/에이치디한국조선해양주종합연구소.png)|0|0|1|0|0|0|
 |[연세대학교 CONNECT-AI연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교CONNECT-AI연구센터.png)|0|0|0|1|0|1|
 |[연세대학교 고등과학원 나노의학연구단 ](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교고등과학원나노의학연구단.png)|0|0|0|1|1|1|
 |[연세대학교 무인기용 고효율 터빈기술 특화연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교무인기용고효율터빈기술특화연구센터.png)|0|0|0|0|0|1|
@@ -310,7 +304,7 @@
 |[충남대학교 첨단수송체연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/충남대학교첨단수송체연구소.png)|0|0|0|1|1|1|
 |[충남대학교병원의생명연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/충남대학교병원의생명연구원.png)|0|0|0|0|0|1|
 |[충남대학교에너지과학기술대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/충남대학교에너지과학기술대학원.png)|0|0|1|0|0|0|
-|[쿠팡 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/쿠팡기업부설연구소.png)|0|0|0|0|0|1|
+|[패턴집적형능동폴리머소재센터(연세대)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/패턴집적형능동폴리머소재센터연세대.png)|0|0|0|0|0|1|
 |[포항공과대학교 인공지능연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/포항공과대학교인공지능연구원.png)|795|0|0|0|1|1|
 |[포항공과대학교환경연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/포항공과대학교환경연구소.png)|795|0|0|0|1|1|
 |[하이브리드소재솔루션연구센터(부산대)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/하이브리드소재솔루션연구센터부산대.png)|0|0|0|0|0|1|
@@ -328,13 +322,13 @@
 |[한국세라믹기술원 오송융합바이오세라믹](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국세라믹기술원오송융합바이오세라믹.png)|0|0|0|0|0|1|
 |[한국세라믹기술원 이천분원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국세라믹기술원이천분원.png)|0|0|0|0|0|1|
 |[한국에너지기술연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국에너지기술연구원.png)|0|0|0|0|0|1|
-|[한국에너지기술연구원 연료전지실증연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국에너지기술연구원연료전지실증연구센터.png)|233|0|0|0|1|1|
 |[한국원자력연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국원자력연구원.png)|0|0|0|0|0|1|
 |[한국원자력연구원 양성자과학연구단](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국원자력연구원양성자과학연구단.png)|795|0|0|0|0|1|
 |[한국원자력의학원(동남권연구센터)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국원자력의학원동남권연구센터.png)|0|0|0|0|0|1|
 |[한국의약품안전관리원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국의약품안전관리원.png)|0|0|0|0|0|1|
 |[한국전자통신연구원 호남권연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국전자통신연구원호남권연구센터.png)|372|0|0|0|0|1|
 |[한국항공대학교 기계항공산업신뢰성기술연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국항공대학교기계항공산업신뢰성기술연구센터.png)|0|0|0|0|1|1|
+|[한국해양과학기술원부설극지연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국해양과학기술원부설극지연구소.png)|0|0|0|0|0|1|
 |[한국해양대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국해양대학교대학원.png)|20|0|0|0|0|1|
 |[한국핵융합에너지연구원 플라즈마기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국핵융합에너지연구원플라즈마기술연구소.png)|233|0|0|0|0|1|
 |[한국화학연구원바이오화학연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국화학연구원바이오화학연구센터.png)|0|0|0|0|0|1|
@@ -342,6 +336,7 @@
 |[한밭대학교소프트웨어융합대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한밭대학교소프트웨어융합대학원.png)|0|1|1|0|0|0|
 |[한양대미래자동차연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한양대미래자동차연구소.png)|0|0|0|1|0|1|
 |[한양대학교의생명공학전문대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한양대학교의생명공학전문대학원.png)|0|0|0|600|0|1|
+|[현대모비스(주)연구개발본부](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/현대모비스주연구개발본부.png)|0|0|1|0|0|0|
 |[확률 해석 및 응용 연구센터(한국과기원)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/확률해석및응용연구센터한국과기원.png)|0|0|0|0|1|1|
 |[(재)농축산용미생물산업육성지원센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/재농축산용미생물산업육성지원센터.png)|233|0|0|0|0|0|
 |[(재)아시아태평양이론물리센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/재아시아태평양이론물리센터.png)|795|0|0|0|0|0|
@@ -388,12 +383,14 @@
 |[배재대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/배재대학교대학원.png)|0|0|0|0|0|0|
 |[부산대학교한의학전문대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/부산대학교한의학전문대학원.png)|605|0|0|600|0|0|
 |[삼성디스플레이연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼성디스플레이연구소.png)|0|0|0|0|0|0|
+|[삼성에스디에스연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼성에스디에스연구소.png)|0|0|0|0|0|0|
 |[삼성전자(주) 설비기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼성전자주설비기술연구소.png)|0|0|0|0|0|0|
 |[삼성전자PKG연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼성전자PKG연구소.png)|0|0|0|0|0|0|
 |[삼성전자네트워크연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼성전자네트워크연구소.png)|0|0|0|0|0|0|
 |[삼성전자무선연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼성전자무선연구소.png)|0|0|0|0|0|0|
 |[상명대학교(대학원)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/상명대학교대학원.png)|0|0|0|600|0|0|
 |[상명대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/상명대학교대학원.png)|0|0|0|0|0|0|
+|[서강대학교 스마트설계생산기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서강대학교스마트설계생산기술연구소.png)|0|0|0|0|0|0|
 |[서경대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서경대학교대학원.png)|0|0|0|600|0|0|
 |[서울과학기술대학교 IT정책전문대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울과학기술대학교IT정책전문대학원.png)|0|0|0|600|0|0|
 |[서울과학기술대학교 융합과학대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울과학기술대학교융합과학대학원.png)|0|0|0|600|0|0|
@@ -410,6 +407,7 @@
 |[아주대정보통신전문대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/아주대정보통신전문대학원.png)|0|0|0|99|0|0|
 |[안동대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/안동대학교대학원.png)|795|0|0|600|0|0|
 |[안보경영연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/안보경영연구원.png)|0|0|0|0|0|0|
+|[에이치디한국조선해양(주)종합연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/에이치디한국조선해양주종합연구소.png)|0|0|0|0|0|0|
 |[엘지생활건강기술연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/엘지생활건강기술연구원.png)|0|0|0|0|0|0|
 |[연세대학교 보건대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교보건대학원.png)|0|0|0|600|0|0|
 |[연세대학교미토콘드리아의학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교미토콘드리아의학연구소.png)|999|0|0|1|0|0|
@@ -429,6 +427,7 @@
 |[충남대학교 신약전문대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/충남대학교신약전문대학원.png)|0|0|0|0|0|0|
 |[충남대학교분석과학기술대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/충남대학교분석과학기술대학원.png)|0|0|0|0|0|0|
 |[캠틱종합기술원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/캠틱종합기술원.png)|233|0|0|0|0|0|
+|[쿠팡 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/쿠팡기업부설연구소.png)|0|0|0|0|0|0|
 |[포항공과대학교생물공학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/포항공과대학교생물공학연구소.png)|795|0|0|0|0|0|
 |[한경대학교미래융합기술대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한경대학교미래융합기술대학원.png)|0|0|0|99|0|0|
 |[한국건설기술연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국건설기술연구원.png)|0|0|0|0|0|0|
@@ -440,6 +439,7 @@
 |[한국생산기술연구원 전북지역본부](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국생산기술연구원전북지역본부.png)|233|0|0|0|0|0|
 |[한국생산기술연구원(울산지역본부)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국생산기술연구원울산지역본부.png)|0|0|0|0|0|0|
 |[한국에너지기술연구원 광주바이오에너지연구개발센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국에너지기술연구원광주바이오에너지연구개발센터.png)|372|0|0|0|0|0|
+|[한국에너지기술연구원 연료전지실증연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국에너지기술연구원연료전지실증연구센터.png)|233|0|0|0|0|0|
 |[한국에너지기술연구원 울산차세대전지연구개발센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국에너지기술연구원울산차세대전지연구개발센터.png)|0|0|0|0|0|0|
 |[한국에너지기술연구원 제주글로벌연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국에너지기술연구원제주글로벌연구센터.png)|0|0|0|0|0|0|
 |[한국원자력통제기술원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국원자력통제기술원.png)|0|0|0|0|0|0|
