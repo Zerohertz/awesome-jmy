@@ -16,8 +16,8 @@
 |[(주)루닛 R&D CENTER](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주루닛R&DCENTER.png)|0|0|2|500|1|10|
 |[(주)마인즈앤컴퍼니 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주마인즈앤컴퍼니기업부설연구소.png)|0|0|1|500|4|10|
 |[(주)씨유박스 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주씨유박스기술연구소.png)|0|1|1|500|3|10|
+|[리벨리온(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/리벨리온주기업부설연구소.png)|0|0|0|272|7|11|
 |[세이지리서치 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/세이지리서치연구소.png)|0|0|0|500|2|11|
-|[리벨리온(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/리벨리온주기업부설연구소.png)|0|0|0|272|6|10|
 |[리얼타임비쥬얼(주)기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/리얼타임비쥬얼주기술연구소.png)|0|1|2|500|2|8|
 |[엘아이지넥스원판교R&D센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/엘아이지넥스원판교R&D센터.png)|0|0|2|4|6|8|
 |[이마고웍스(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/이마고웍스주기업부설연구소.png)|0|0|0|500|7|10|
@@ -37,13 +37,13 @@
 |[(주)스트라드비젼 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주스트라드비젼기업부설연구소.png)|795|0|1|20|2|6|
 |[(주)실리콘마이터스 선행기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주실리콘마이터스선행기술연구소.png)|0|0|1|0|0|6|
 |[(주)에스아이에이 인공지능연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에스아이에이인공지능연구소.png)|0|1|2|65|3|5|
-|[(주)케이사인 정보보안연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주케이사인정보보안연구소.png)|0|0|0|500|3|7|
+|[(주)케이사인 정보보안연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주케이사인정보보안연구소.png)|0|0|0|272|3|7|
 |[(주)티맥스비아이 연구소 Tmax R&D Center ](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주티맥스비아이연구소TmaxR&DCenter.png)|0|0|0|0|0|7|
+|[(주)파이오링크 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주파이오링크부설연구소.png)|0|0|0|500|5|7|
 |[(주)피플펀드컴퍼니 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주피플펀드컴퍼니기업부설연구소.png)|0|0|1|500|2|6|
 |[로보티즈 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/로보티즈부설연구소.png)|0|1|1|500|3|6|
 |[아우토크립트(주) 모빌리티보안연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/아우토크립트주모빌리티보안연구소.png)|0|0|0|500|2|7|
 |[에코에너지기술연구소 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/에코에너지기술연구소기업부설연구소.png)|0|0|0|20|3|7|
-|[(주)네오위즈기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주네오위즈기업부설연구소.png)|0|0|0|2|2|6|
 |[(주)디셈버앤컴퍼니자산운용 R&D Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주디셈버앤컴퍼니자산운용R&DCenter.png)|0|0|0|500|1|6|
 |[(주)맥스트기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주맥스트기업부설연구소.png)|0|0|1|500|1|5|
 |[(주)쓰리빌리언 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주쓰리빌리언기업부설연구소.png)|0|0|1|500|2|5|
@@ -53,11 +53,10 @@
 |[Tmax R&D Center (주)티맥스티베로연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/TmaxR&DCenter주티맥스티베로연구소.png)|0|0|0|0|0|6|
 |[대웅바이오연구소서울분소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/대웅바이오연구소서울분소.png)|0|0|0|1|3|6|
 |[대원제약중앙연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/대원제약중앙연구소.png)|0|0|0|1|1|6|
-|[동아에스티(주)연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/동아에스티주연구소.png)|0|0|0|0|1|6|
 |[한국유나이티드제약(주) 세종연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국유나이티드제약주세종연구소.png)|0|0|0|0|1|6|
-|[한국항공우주산업항공기개발센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국항공우주산업항공기개발센터.png)|605|0|0|2|2|6|
 |[(주)골든엔지니어링 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주골든엔지니어링기업부설연구소.png)|0|1|4|500|0|1|
 |[(주)날비컴퍼니 R&D CENTER](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주날비컴퍼니R&DCENTER.png)|0|0|0|500|0|5|
+|[(주)네오위즈기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주네오위즈기업부설연구소.png)|0|0|0|2|2|5|
 |[(주)딥엑스 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주딥엑스부설연구소.png)|0|0|0|272|1|5|
 |[(주)매스프레소기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주매스프레소기업부설연구소.png)|0|0|0|500|0|5|
 |[(주)모레 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주모레기업부설연구소.png)|0|0|0|500|5|5|
@@ -74,12 +73,11 @@
 |[(주)코난테크놀로지 언어·음성 AI 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주코난테크놀로지언어·음성AI연구소.png)|0|0|0|500|2|5|
 |[(주)퀀텀캣 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주퀀텀캣기업부설연구소.png)|0|1|1|65|2|4|
 |[(주)큐셀네트웍스 정보통신연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주큐셀네트웍스정보통신연구소.png)|0|0|1|272|1|4|
-|[(주)클레온 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주클레온기업부설연구소.png)|0|0|0|500|1|5|
+|[(주)클레온 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주클레온기업부설연구소.png)|0|0|0|500|2|5|
 |[(주)토르드라이브 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주토르드라이브기업부설연구소.png)|0|0|0|500|0|5|
 |[(주)트웰브랩스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주트웰브랩스기업부설연구소.png)|0|0|0|500|5|5|
 |[(주)트위니 인공지능로봇 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주트위니인공지능로봇연구소.png)|0|0|0|65|2|5|
-|[(주)파이오링크 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주파이오링크부설연구소.png)|0|0|0|500|3|5|
-|[데브시스터즈(주)R&D Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/데브시스터즈주R&DCenter.png)|0|0|0|500|1|5|
+|[동아에스티(주)연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/동아에스티주연구소.png)|0|0|0|0|1|5|
 |[보로노이(주)신약개발연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/보로노이주신약개발연구소.png)|0|0|1|40|2|4|
 |[셀렉트스타(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/셀렉트스타주기업부설연구소.png)|0|0|0|0|0|5|
 |[쎄트렉아이우주기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/쎄트렉아이우주기술연구소.png)|0|0|0|65|3|5|
@@ -90,6 +88,7 @@
 |[피도텍 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/피도텍기업부설연구소.png)|0|0|1|500|2|4|
 |[한국유나이티드제약서울연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국유나이티드제약서울연구소.png)|0|0|0|2|2|5|
 |[한국자산공학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국자산공학연구소.png)|0|0|0|500|4|5|
+|[한국항공우주산업항공기개발센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국항공우주산업항공기개발센터.png)|605|0|0|2|2|5|
 |[(주)넥스트폼기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주넥스트폼기술연구소.png)|0|0|0|500|2|4|
 |[(주)데이블개인화기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주데이블개인화기술연구소.png)|0|0|0|500|0|4|
 |[(주)델타엑스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주델타엑스기업부설연구소.png)|0|0|0|500|4|4|
@@ -120,7 +119,7 @@
 |[(주)오투오 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주오투오부설연구소.png)|0|0|0|500|2|4|
 |[(주)온택트헬스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주온택트헬스기업부설연구소.png)|0|2|2|500|2|2|
 |[(주)원프레딕트R&D센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주원프레딕트R&D센터.png)|0|0|0|500|2|4|
-|[(주)인벤티지랩 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주인벤티지랩기업부설연구소.png)|0|0|1|0|1|3|
+|[(주)인벤티지랩 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주인벤티지랩기업부설연구소.png)|0|0|1|272|1|3|
 |[(주)인스텍 중앙연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주인스텍중앙연구소.png)|0|0|0|65|1|4|
 |[(주)제욱기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주제욱기업부설연구소.png)|0|0|1|500|1|3|
 |[(주)지엔티파마 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주지엔티파마부설연구소.png)|0|0|1|272|1|3|
@@ -129,6 +128,7 @@
 |[(주)텐일레븐미래기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주텐일레븐미래기술연구소.png)|0|0|0|500|2|4|
 |[(주)한솔케미칼 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주한솔케미칼연구소.png)|233|1|2|1|1|2|
 |[네오사피엔스(주) 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/네오사피엔스주연구소.png)|0|0|0|500|2|4|
+|[데브시스터즈(주)R&D Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/데브시스터즈주R&DCenter.png)|0|0|0|500|1|4|
 |[동명기술공단종합건축사사무소부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/동명기술공단종합건축사사무소부설연구소.png)|0|0|2|0|0|2|
 |[동진쎄미켐부설제2연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/동진쎄미켐부설제2연구소.png)|0|0|0|2|2|4|
 |[디어젠(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/디어젠주기업부설연구소.png)|0|0|0|500|0|4|
@@ -154,6 +154,7 @@
 |[(주)가람건축부설기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주가람건축부설기술연구소.png)|0|0|0|500|0|3|
 |[(주)고바이오랩마이크로비옴치료연구](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주고바이오랩마이크로비옴치료연구.png)|0|0|1|272|0|2|
 |[(주)공간의파티 기업연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주공간의파티기업연구소.png)|0|1|1|500|2|2|
+|[(주)구름 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주구름기업부설연구소.png)|0|0|0|272|2|3|
 |[(주)네오스텍 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주네오스텍기업부설연구소.png)|0|0|0|40|0|3|
 |[(주)네이처글루텍바이오기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주네이처글루텍바이오기술연구소.png)|0|0|1|500|1|2|
 |[(주)넥스트젠바이오사이언스 신약평가연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주넥스트젠바이오사이언스신약평가연구소.png)|0|0|0|272|0|3|
@@ -207,6 +208,7 @@
 |[(주)지오시스템리서치 수치모델연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주지오시스템리서치수치모델연구소.png)|0|0|0|272|0|3|
 |[(주)컴투스 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주컴투스부설연구소.png)|0|0|0|1|1|3|
 |[(주)쿡앱스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주쿡앱스기업부설연구소.png)|0|0|0|272|0|3|
+|[(주)퀀타매트릭스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주퀀타매트릭스기업부설연구소.png)|0|0|0|500|1|3|
 |[(주)큐브세븐틴 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주큐브세븐틴기업부설연구소.png)|0|1|1|500|2|2|
 |[(주)크래프톤(KRAFTON, Inc.) PUBG Research Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주크래프톤KRAFTON,Inc.PUBGResearchCenter.png)|0|0|0|1|1|3|
 |[(주)크래프트테크놀로지스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주크래프트테크놀로지스기업부설연구소.png)|0|0|1|500|0|2|
@@ -229,6 +231,7 @@
 |[Tmax R&D Center (주)티맥스오에스연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/TmaxR&DCenter주티맥스오에스연구소.png)|0|0|0|0|0|3|
 |[고영테크놀러지R&DCenter](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/고영테크놀러지R&DCenter.png)|0|0|0|1|1|3|
 |[대원제약서울연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/대원제약서울연구소.png)|0|0|0|2|2|3|
+|[동광제약(주)중앙연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/동광제약주중앙연구소.png)|0|1|1|0|0|2|
 |[블루닷(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/블루닷주기업부설연구소.png)|0|0|0|500|1|3|
 |[슈어소프트테크(주)소프트웨어시험자동화연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/슈어소프트테크주소프트웨어시험자동화연구소.png)|0|0|1|272|0|2|
 |[스피덴트 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/스피덴트기술연구소.png)|0|0|1|40|0|2|
@@ -255,17 +258,16 @@
 |[호두에이아이랩(주) 호두랩 기업부설](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/호두에이아이랩주호두랩기업부설.png)|0|0|2|500|0|1|
 |[(주)HLB 바이오스텝 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주HLB바이오스텝기업부설연구소.png)|0|0|1|40|0|1|
 |[(주)가치소프트 미래가치연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주가치소프트미래가치연구소.png)|0|0|2|0|0|0|
-|[(주)구름 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주구름기업부설연구소.png)|0|0|0|272|1|2|
 |[(주)나온웍스 부설중앙연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주나온웍스부설중앙연구소.png)|0|0|0|500|0|2|
 |[(주)넥스트랩 R&D Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주넥스트랩R&DCenter.png)|0|0|1|500|0|1|
 |[(주)넥스트바이오메디컬기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주넥스트바이오메디컬기업부설연구소.png)|0|1|1|0|0|1|
+|[(주)넥스트젠바이오사이언스 신약탐색연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주넥스트젠바이오사이언스신약탐색연구소.png)|0|1|1|272|1|1|
 |[(주)누비랩 AI R&D Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주누비랩AIR&DCenter.png)|0|0|0|500|2|2|
 |[(주)뉴라클제네틱스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주뉴라클제네틱스기업부설연구소.png)|0|0|0|500|0|2|
 |[(주)뉴라텍 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주뉴라텍기업부설연구소.png)|0|0|0|500|1|2|
 |[(주)니어스랩우주기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주니어스랩우주기술연구소.png)|0|0|0|500|1|2|
 |[(주)닥터소프트기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주닥터소프트기술연구소.png)|0|0|0|500|1|2|
 |[(주)단단 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주단단기술연구소.png)|0|0|0|65|2|2|
-|[(주)대웅제약 의약연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주대웅제약의약연구소.png)|0|0|0|2|0|2|
 |[(주)데베트론코리아계측시스템연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주데베트론코리아계측시스템연구소.png)|0|0|0|272|0|2|
 |[(주)도우인시스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주도우인시스기업부설연구소.png)|0|0|0|25|2|2|
 |[(주)동해종합기술공사 도시정보연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주동해종합기술공사도시정보연구소.png)|0|1|2|500|0|0|
@@ -321,7 +323,6 @@
 |[(주)스틸리언 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주스틸리언기업부설연구소.png)|0|0|0|500|0|2|
 |[(주)스파이더코어 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주스파이더코어기업부설연구소.png)|0|0|0|65|2|2|
 |[(주)시너지에이아이 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주시너지에이아이기업부설연구소.png)|0|0|0|500|1|2|
-|[(주)시노펙스 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주시노펙스기술연구소.png)|0|0|0|1|0|2|
 |[(주)실크로드소프트 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주실크로드소프트기업부설연구소.png)|0|0|0|272|1|2|
 |[(주)씨앤에이아이 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주씨앤에이아이기업부설연구소.png)|0|0|0|500|2|2|
 |[(주)씨앤피동양 구조공학시스템연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주씨앤피동양구조공학시스템연구소.png)|0|0|0|500|1|2|
@@ -333,14 +334,12 @@
 |[(주)안랩부설안티바이러스연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주안랩부설안티바이러스연구소.png)|0|1|2|0|0|0|
 |[(주)알체라 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주알체라기업부설연구소.png)|0|0|1|272|0|1|
 |[(주)얼라인드제네틱스 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주얼라인드제네틱스기술연구소.png)|0|0|0|272|0|2|
-|[(주)에스디옵틱스 Research and Development Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에스디옵틱스ResearchandDevelopmentCenter.png)|0|0|0|272|0|2|
 |[(주)에어스메디컬 기업부설 제2연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에어스메디컬기업부설제2연구소.png)|0|0|0|500|0|2|
 |[(주)에이로봇 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에이로봇기업부설연구소.png)|0|0|0|40|2|2|
 |[(주)에이슬립 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에이슬립기업부설연구소.png)|0|1|1|500|1|1|
 |[(주)에이아이더뉴트리진본사기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에이아이더뉴트리진본사기업부설연구소.png)|0|0|1|272|0|1|
 |[(주)에이아이스페라 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에이아이스페라기업부설연구소.png)|0|0|0|1|0|2|
 |[(주)에이아이트릭스 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에이아이트릭스연구소.png)|0|0|0|500|1|2|
-|[(주)엑소시스템즈 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주엑소시스템즈기업부설연구소.png)|0|0|0|272|0|2|
 |[(주)엔에이치엔다이퀘스트 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주엔에이치엔다이퀘스트기술연구소.png)|0|0|0|1|1|2|
 |[(주)엔젤로보틱스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주엔젤로보틱스기업부설연구소.png)|0|0|0|500|2|2|
 |[(주)엘렉시 기업부설연구소 Embedded Intelligence Lab.](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주엘렉시기업부설연구소EmbeddedIntelligenceLab..png)|0|0|0|500|2|2|
@@ -366,7 +365,6 @@
 |[(주)자이냅스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주자이냅스기업부설연구소.png)|0|0|0|0|0|2|
 |[(주)제놀루션 R&D Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주제놀루션R&DCenter.png)|0|0|0|500|2|2|
 |[(주)제이에이치씨 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주제이에이치씨기업부설연구소.png)|0|0|0|0|0|2|
-|[(주)제트바이오텍R&D연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주제트바이오텍R&D연구소.png)|0|0|0|0|0|2|
 |[(주)제핏 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주제핏기업부설연구소.png)|795|0|1|20|0|1|
 |[(주)젠다카디언코리아 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주젠다카디언코리아기업부설연구소.png)|0|0|0|0|0|2|
 |[(주)젠티 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주젠티기업부설연구소.png)|0|0|0|500|2|2|
@@ -379,7 +377,6 @@
 |[(주)케비젠중앙연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주케비젠중앙연구소.png)|233|0|0|5|2|2|
 |[(주)케이에프엠 KERN 중앙 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주케이에프엠KERN중앙연구소.png)|0|0|1|65|1|1|
 |[(주)코어라인소프트 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주코어라인소프트부설연구소.png)|0|0|0|500|1|2|
-|[(주)퀀타매트릭스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주퀀타매트릭스기업부설연구소.png)|0|0|0|500|0|2|
 |[(주)큐램 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주큐램기술연구소.png)|0|0|0|272|1|2|
 |[(주)큐브리드기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주큐브리드기업부설연구소.png)|0|0|0|500|1|2|
 |[(주)클리노믹스 다중오믹스연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주클리노믹스다중오믹스연구소.png)|0|1|1|20|0|1|
@@ -398,7 +395,7 @@
 |[(주)핏투게더 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주핏투게더기업부설연구소.png)|0|0|0|500|1|2|
 |[(주)하이센스바이오 재생치의학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주하이센스바이오재생치의학연구소.png)|0|0|0|272|0|2|
 |[(주)한국해양기상기술기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주한국해양기상기술기업부설연구소.png)|0|0|0|500|1|2|
-|[(주)한컴프론티스 ICT융복합기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주한컴프론티스ICT융복합기술연구소.png)|0|0|1|0|1|1|
+|[(주)한컴프론티스 ICT융복합기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주한컴프론티스ICT융복합기술연구소.png)|0|0|1|272|1|1|
 |[(주)해마루 소동물임상의학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주해마루소동물임상의학연구소.png)|0|0|1|0|0|1|
 |[(주)해치텍 서울부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주해치텍서울부설연구소.png)|0|0|0|0|0|2|
 |[(주)헬릭스미스 연구개발센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주헬릭스미스연구개발센터.png)|0|0|1|500|0|1|
@@ -415,10 +412,8 @@
 |[나손사이언스(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/나손사이언스주기업부설연구소.png)|0|0|0|25|0|2|
 |[뉴로핏(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/뉴로핏주기업부설연구소.png)|0|0|0|500|0|2|
 |[뉴메드 한의과학기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/뉴메드한의과학기술연구소.png)|0|1|1|500|0|1|
-|[단암시스템즈부설기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/단암시스템즈부설기술연구소.png)|0|0|0|272|1|2|
 |[대화제약 판교연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/대화제약판교연구소.png)|0|0|0|1|0|2|
 |[덴티움부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/덴티움부설연구소.png)|0|0|0|1|1|2|
-|[동광제약(주)중앙연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/동광제약주중앙연구소.png)|0|0|0|0|0|2|
 |[동방에프티엘(주)기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/동방에프티엘주기술연구소.png)|0|1|1|272|1|1|
 |[동운아나텍 반도체부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/동운아나텍반도체부설연구소.png)|0|0|0|500|1|2|
 |[라온시큐어 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/라온시큐어기술연구소.png)|0|0|0|500|1|2|
@@ -472,7 +467,6 @@
 |[커넥타젠(주) 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/커넥타젠주부설연구소.png)|0|0|0|500|1|2|
 |[케빈랩(주)기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/케빈랩주기업부설연구소.png)|0|0|0|272|1|2|
 |[코아리버부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/코아리버부설연구소.png)|0|0|0|500|0|2|
-|[큐알티(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/큐알티주기업부설연구소.png)|0|0|0|272|1|2|
 |[크레비스파트너스 모금기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/크레비스파트너스모금기술연구소.png)|0|0|0|500|1|2|
 |[테크온미디어(주) 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/테크온미디어주기술연구소.png)|0|0|0|500|0|2|
 |[파크시스템스부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/파크시스템스부설연구소.png)|0|0|0|272|0|2|
@@ -511,19 +505,19 @@
 |[(주)노벨티노빌리티기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주노벨티노빌리티기업부설연구소.png)|0|0|0|272|1|1|
 |[(주)노스퀘스트 R&D CENTER](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주노스퀘스트R&DCENTER.png)|0|0|1|0|0|0|
 |[(주)노피온 마이크로패키징연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주노피온마이크로패키징연구소.png)|0|0|1|272|0|0|
-|[(주)녹십자R&D센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주녹십자R&D센터.png)|0|0|1|1|0|0|
 |[(주)뉴라메디 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주뉴라메디기업부설연구소.png)|0|0|0|500|0|1|
 |[(주)뉴로클 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주뉴로클기업부설연구소.png)|0|0|0|500|1|1|
 |[(주)뉴빌리티 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주뉴빌리티기업부설연구소.png)|0|0|0|500|1|1|
 |[(주)뉴아인 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주뉴아인기업부설연구소.png)|0|0|0|500|0|1|
 |[(주)뉴앤뉴 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주뉴앤뉴기술연구소.png)|0|0|0|0|0|1|
 |[(주)다산제약 중앙연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주다산제약중앙연구소.png)|0|0|0|272|0|1|
+|[(주)대웅제약 의약연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주대웅제약의약연구소.png)|0|0|0|2|0|1|
 |[(주)데브스택 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주데브스택기업부설연구소.png)|0|0|0|500|0|1|
 |[(주)데이터드리븐 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주데이터드리븐기업부설연구소.png)|0|0|0|500|0|1|
 |[(주)데이터몬스터즈 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주데이터몬스터즈기업부설연구소.png)|0|0|0|0|0|1|
 |[(주)도베르만 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주도베르만기업부설연구소.png)|0|0|0|0|0|1|
 |[(주)도터 기업부설연구소 (혁신 의료기기 QMS Center)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주도터기업부설연구소혁신의료기기QMSCenter.png)|0|0|0|500|0|1|
-|[(주)두래기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주두래기술연구소.png)|0|0|0|0|1|1|
+|[(주)두래기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주두래기술연구소.png)|0|0|0|272|1|1|
 |[(주)두크 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주두크기술연구소.png)|0|0|0|0|0|1|
 |[(주)두타기술 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주두타기술기술연구소.png)|0|0|0|65|0|1|
 |[(주)드림시큐리티 정보보안연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주드림시큐리티정보보안연구소.png)|0|0|0|500|0|1|
@@ -608,6 +602,7 @@
 |[(주)스칼라웍스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주스칼라웍스기업부설연구소.png)|0|0|0|500|0|1|
 |[(주)스탠더드시험연구소 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주스탠더드시험연구소기업부설연구소.png)|0|0|0|65|1|1|
 |[(주)스템온기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주스템온기업부설연구소.png)|0|0|0|272|1|1|
+|[(주)시노펙스 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주시노펙스기술연구소.png)|0|0|0|1|0|1|
 |[(주)시어스랩기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주시어스랩기업부설연구소.png)|0|0|0|500|0|1|
 |[(주)신아티앤씨 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주신아티앤씨부설연구소.png)|0|0|0|500|0|1|
 |[(주)신테카바이오포스트오믹스연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주신테카바이오포스트오믹스연구소.png)|0|0|0|500|0|1|
@@ -650,6 +645,7 @@
 |[(주)야스 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주야스부설연구소.png)|0|0|0|10|0|1|
 |[(주)양지 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주양지부설연구소.png)|0|0|0|500|1|1|
 |[(주)에빅스젠부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에빅스젠부설연구소.png)|0|0|0|500|0|1|
+|[(주)에스디옵틱스 Research and Development Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에스디옵틱스ResearchandDevelopmentCenter.png)|0|0|0|272|0|1|
 |[(주)에스앤에스텍연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에스앤에스텍연구소.png)|795|0|0|20|0|1|
 |[(주)에스엔 신기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에스엔신기술연구소.png)|0|1|1|65|0|0|
 |[(주)에스엘바이젠 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에스엘바이젠기업부설연구소.png)|0|0|0|40|1|1|
@@ -663,7 +659,7 @@
 |[(주)에이아이네이션 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에이아이네이션기업부설연구소.png)|0|0|0|500|1|1|
 |[(주)에이아이딥 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에이아이딥기업부설연구소.png)|0|1|1|500|0|0|
 |[(주)에이유기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에이유기업부설연구소.png)|0|0|0|272|1|1|
-|[(주)에이치앤바이오 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에이치앤바이오기업부설연구소.png)|0|0|0|0|1|1|
+|[(주)에이치앤바이오 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에이치앤바이오기업부설연구소.png)|0|0|0|272|1|1|
 |[(주)에이치에너지 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에이치에너지기업부설연구소.png)|0|0|1|500|0|0|
 |[(주)에이치엔에이파마켐 기술개발연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에이치엔에이파마켐기술개발연구소.png)|0|0|0|40|0|1|
 |[(주)에이치엔티메디칼 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에이치엔티메디칼기술연구소.png)|0|0|0|500|1|1|
@@ -671,6 +667,7 @@
 |[(주)에즈큐리스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에즈큐리스기업부설연구소.png)|0|0|0|65|1|1|
 |[(주)에코마스터기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에코마스터기업부설연구소.png)|0|0|0|65|1|1|
 |[(주)에프엑스기어 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주에프엑스기어기술연구소.png)|0|0|1|500|0|0|
+|[(주)엑소시스템즈 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주엑소시스템즈기업부설연구소.png)|0|0|0|272|0|1|
 |[(주)엑소퍼트 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주엑소퍼트기업부설연구소.png)|0|0|0|500|0|1|
 |[(주)엔바이어스 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주엔바이어스기술연구소.png)|0|0|0|500|0|1|
 |[(주)엔비코컨설턴트  Research Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주엔비코컨설턴트ResearchCenter.png)|0|0|0|272|0|1|
@@ -682,7 +679,6 @@
 |[(주)엔키아EMS연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주엔키아EMS연구소.png)|0|0|0|272|1|1|
 |[(주)엘엠에스 디스플레이사업부 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주엘엠에스디스플레이사업부연구소.png)|0|0|0|0|0|1|
 |[(주)엘케이켐 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주엘케이켐기업부설연구소.png)|0|0|0|65|1|1|
-|[(주)엠모니터기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주엠모니터기업부설연구소.png)|795|0|0|0|0|1|
 |[(주)엠젠 R&D Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주엠젠R&DCenter.png)|0|0|1|272|0|0|
 |[(주)엠티에스컴퍼니 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주엠티에스컴퍼니기업부설연구소.png)|0|0|0|500|0|1|
 |[(주)엠티오메가 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주엠티오메가부설연구소.png)|0|0|0|0|0|1|
@@ -695,12 +691,12 @@
 |[(주)온코크로스 바이오연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주온코크로스바이오연구소.png)|0|0|1|0|0|0|
 |[(주)옵티팜 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주옵티팜기업부설연구소.png)|0|0|0|25|0|1|
 |[(주)와이브레인기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주와이브레인기업부설연구소.png)|0|0|0|272|0|1|
-|[(주)와이에스생명과학 중앙연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주와이에스생명과학중앙연구소.png)|0|0|1|272|0|0|
 |[(주)와이즈오토모티브 시스템전자컨](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주와이즈오토모티브시스템전자컨.png)|0|0|0|0|0|1|
 |[(주)우리소프트 부설 휴먼케어연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주우리소프트부설휴먼케어연구소.png)|795|1|1|20|0|0|
 |[(주)원드롭 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주원드롭기업부설연구소.png)|0|0|0|272|0|1|
 |[(주)원익머트리얼즈 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주원익머트리얼즈부설연구소.png)|0|0|0|1|0|1|
 |[(주)원익아이피에스 Display연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주원익아이피에스Display연구소.png)|0|0|0|1|0|1|
+|[(주)웨더피아 부설 글로벌기후변화연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주웨더피아부설글로벌기후변화연구소.png)|0|0|0|500|1|1|
 |[(주)웨이브라이프스타일테크 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주웨이브라이프스타일테크기업부설연구소.png)|0|0|0|500|1|1|
 |[(주)웨이브코퍼레이션 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주웨이브코퍼레이션기업부설연구소.png)|0|0|0|0|0|1|
 |[(주)웨이브피아 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주웨이브피아기업부설연구소.png)|0|0|0|0|0|1|
@@ -743,6 +739,7 @@
 |[(주)제이비바이오텍 중앙기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주제이비바이오텍중앙기술연구소.png)|0|0|0|500|1|1|
 |[(주)제이비티 스마트재난관리연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주제이비티스마트재난관리연구소.png)|0|0|1|500|0|0|
 |[(주)제이시스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주제이시스기업부설연구소.png)|0|0|0|40|1|1|
+|[(주)제트바이오텍R&D연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주제트바이오텍R&D연구소.png)|0|0|0|0|0|1|
 |[(주)젠믹스텍 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주젠믹스텍부설연구소.png)|0|0|0|0|0|1|
 |[(주)젠바디 생명공학 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주젠바디생명공학연구소.png)|0|0|0|65|0|1|
 |[(주)주빅 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주주빅기업부설연구소.png)|0|0|0|500|0|1|
@@ -754,6 +751,7 @@
 |[(주)지앤티솔루션 R&D센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주지앤티솔루션R&D센터.png)|0|0|0|500|0|1|
 |[(주)지오투정보기술 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주지오투정보기술부설연구소.png)|0|0|0|0|0|1|
 |[(주)지음지식서비스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주지음지식서비스기업부설연구소.png)|0|0|0|272|0|1|
+|[(주)지이모션 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주지이모션기업부설연구소.png)|0|1|1|500|0|0|
 |[(주)지투지바이오기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주지투지바이오기업부설연구소.png)|0|0|0|25|1|1|
 |[(주)창명산업 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주창명산업부설연구소.png)|0|0|0|0|0|1|
 |[(주)창의와탐구 영재교육연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주창의와탐구영재교육연구소.png)|0|0|0|500|0|1|
@@ -780,7 +778,7 @@
 |[(주)텔로팜 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주텔로팜기술연구소.png)|0|0|0|0|0|1|
 |[(주)토핀스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주토핀스기업부설연구소.png)|0|0|0|0|0|1|
 |[(주)트윔 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주트윔기업부설연구소.png)|0|0|0|272|1|1|
-|[(주)티사이언티픽 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주티사이언티픽기업부설연구소.png)|0|0|0|0|1|1|
+|[(주)티사이언티픽 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주티사이언티픽기업부설연구소.png)|0|0|0|500|1|1|
 |[(주)티엔젠 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주티엔젠부설연구소.png)|0|0|0|272|0|1|
 |[(주)티엘비 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주티엘비연구소.png)|0|0|1|0|0|0|
 |[(주)티이솔루션 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주티이솔루션기술연구소.png)|0|0|0|272|1|1|
@@ -805,6 +803,7 @@
 |[(주)프로텍 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주프로텍부설연구소.png)|0|0|0|0|0|1|
 |[(주)플코스킨 항노화&재생의학 연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주플코스킨항노화&재생의학연구센터.png)|0|0|0|500|1|1|
 |[(주)피글 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주피글기업부설연구소.png)|605|0|0|0|0|1|
+|[(주)피아이첨단소재 R&D Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주피아이첨단소재R&DCenter.png)|0|0|0|1|1|1|
 |[(주)피알앤디컴퍼니 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주피알앤디컴퍼니기업부설연구소.png)|0|0|0|500|1|1|
 |[(주)피알지에스앤텍 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주피알지에스앤텍기업부설연구소.png)|0|1|1|20|0|0|
 |[(주)피코팩 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주피코팩기업부설연구소.png)|0|0|0|65|0|1|
@@ -822,6 +821,7 @@
 |[(주)휴레이포지티브기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주휴레이포지티브기업부설연구소.png)|0|0|0|500|1|1|
 |[(주)휴먼아이씨티 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주휴먼아이씨티기술연구소.png)|0|0|0|0|0|1|
 |[(주)휴벳바이오 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주휴벳바이오기업부설연구소.png)|0|0|0|500|0|1|
+|[(주)히츠 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주히츠기업부설연구소.png)|0|1|1|500|0|0|
 |[㈜스마트레이더시스템 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/㈜스마트레이더시스템기업부설연구소.png)|0|0|0|272|0|1|
 |[경인양행중앙연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/경인양행중앙연구소.png)|0|0|0|0|0|1|
 |[광개토연구소 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/광개토연구소연구소.png)|0|0|0|500|0|1|
@@ -833,6 +833,7 @@
 |[다인바이오(주)부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/다인바이오주부설연구소.png)|0|0|0|272|1|1|
 |[다임리서치(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/다임리서치주기업부설연구소.png)|0|0|0|500|1|1|
 |[닥터노아바이오텍(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/닥터노아바이오텍주기업부설연구소.png)|0|0|0|272|1|1|
+|[단암시스템즈부설기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/단암시스템즈부설기술연구소.png)|0|0|0|272|1|1|
 |[대양전기공업(주) 기업부설연구소(1연구소)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/대양전기공업주기업부설연구소1연구소.png)|0|0|0|1|1|1|
 |[대영채비(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/대영채비주기업부설연구소.png)|795|0|0|20|0|1|
 |[대웅바이오연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/대웅바이오연구소.png)|0|0|0|1|0|1|
@@ -871,7 +872,6 @@
 |[브레인즈컴퍼니(주)기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/브레인즈컴퍼니주기술연구소.png)|0|0|0|500|1|1|
 |[브릿지테크놀러지(주)기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/브릿지테크놀러지주기술연구소.png)|0|0|0|272|1|1|
 |[브이씨엔씨(주) 디지털데이터 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/브이씨엔씨주디지털데이터연구소.png)|0|0|0|0|0|1|
-|[블루센(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/블루센주기업부설연구소.png)|795|0|0|20|0|1|
 |[비즈(주) 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/비즈주부설연구소.png)|0|0|0|65|0|1|
 |[비츠로시스연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/비츠로시스연구소.png)|0|0|1|0|0|0|
 |[비트컴퓨터기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/비트컴퓨터기술연구소.png)|0|0|0|500|0|1|
@@ -932,9 +932,9 @@
 |[코스모촉매(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/코스모촉매주기업부설연구소.png)|0|0|0|0|0|1|
 |[코아스템켐온(주) 비임상연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/코아스템켐온주비임상연구소.png)|0|0|0|272|1|1|
 |[코코네엠(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/코코네엠주기업부설연구소.png)|0|0|0|500|1|1|
+|[큐알티(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/큐알티주기업부설연구소.png)|0|0|0|272|1|1|
 |[태준제약중앙연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/태준제약중앙연구소.png)|0|0|0|0|0|1|
 |[태하메카트로닉스(주) 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/태하메카트로닉스주기술연구소.png)|0|0|1|272|0|0|
-|[테너지연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/테너지연구소.png)|0|0|0|0|0|1|
 |[테크빌교육(주) 에듀테크연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/테크빌교육주에듀테크연구소.png)|0|0|1|500|0|0|
 |[티쓰리큐(주)소프트웨어개발연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/티쓰리큐주소프트웨어개발연구소.png)|0|0|0|500|0|1|
 |[티앤엘 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/티앤엘기술연구소.png)|0|0|0|0|0|1|
@@ -980,8 +980,8 @@
 |[(주)네스앤텍 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주네스앤텍기업부설연구소.png)|0|0|0|0|0|0|
 |[(주)네오젠티씨기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주네오젠티씨기업부설연구소.png)|0|0|0|272|0|0|
 |[(주)네패스 인공지능 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주네패스인공지능연구소.png)|0|0|0|0|0|0|
-|[(주)넥스트젠바이오사이언스 신약공정연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주넥스트젠바이오사이언스신약공정연구소.png)|0|0|0|500|0|0|
 |[(주)노아닉스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주노아닉스기업부설연구소.png)|0|0|0|25|0|0|
+|[(주)녹십자R&D센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주녹십자R&D센터.png)|0|0|0|1|0|0|
 |[(주)누가의료기 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주누가의료기기술연구소.png)|999|0|0|10|0|0|
 |[(주)누리온 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주누리온기업부설연구소.png)|0|0|0|40|0|0|
 |[(주)뉴라이브 디지털융합의학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주뉴라이브디지털융합의학연구소.png)|0|0|0|500|0|0|
@@ -1003,7 +1003,7 @@
 |[(주)더아이엠씨 데이터사이언스연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주더아이엠씨데이터사이언스연구소.png)|795|0|0|20|0|0|
 |[(주)더카본스튜디오 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주더카본스튜디오기업부설연구소.png)|0|0|0|65|0|0|
 |[(주)더플랜잇 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주더플랜잇기업부설연구소.png)|0|0|0|272|0|0|
-|[(주)데크카본 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주데크카본기술연구소.png)|0|0|0|0|0|0|
+|[(주)데크카본 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주데크카본기술연구소.png)|233|0|0|0|0|0|
 |[(주)동부아이씨티 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주동부아이씨티기업부설연구소.png)|0|0|0|272|0|0|
 |[(주)동양이화 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주동양이화부설연구소.png)|0|0|0|0|0|0|
 |[(주)동화엔텍기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주동화엔텍기술연구소.png)|0|0|0|1|0|0|
@@ -1057,7 +1057,7 @@
 |[(주)바디프랜드 융합 R&D센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주바디프랜드융합R&D센터.png)|0|0|0|2|0|0|
 |[(주)바로팜 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주바로팜기업부설연구소.png)|0|0|0|500|0|0|
 |[(주)바이오니아 과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주바이오니아과학연구소.png)|0|0|0|65|0|0|
-|[(주)바이오맥스 기업부설 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주바이오맥스기업부설연구소.png)|0|0|0|500|0|0|
+|[(주)바이오맥스 기업부설 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주바이오맥스기업부설연구소.png)|0|0|0|0|0|0|
 |[(주)바이오스탠다드 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주바이오스탠다드연구소.png)|0|0|0|65|0|0|
 |[(주)바이오시네틱스연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주바이오시네틱스연구소.png)|0|0|0|500|0|0|
 |[(주)바이오트코리아 소재 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주바이오트코리아소재기업부설연구소.png)|0|0|0|500|0|0|
@@ -1075,7 +1075,7 @@
 |[(주)비비에이치씨 생명과학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주비비에이치씨생명과학연구원.png)|0|0|0|500|0|0|
 |[(주)비스토스 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주비스토스연구소.png)|0|0|0|0|0|0|
 |[(주)비씨켐R&D Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주비씨켐R&DCenter.png)|0|0|0|0|0|0|
-|[(주)비아 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주비아기업부설연구소.png)|0|0|0|0|0|0|
+|[(주)비아 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주비아기업부설연구소.png)|233|0|0|0|0|0|
 |[(주)비알디 R&D center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주비알디R&Dcenter.png)|0|0|0|272|0|0|
 |[(주)비젼인 글로벌R&D센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주비젼인글로벌R&D센터.png)|0|0|0|0|0|0|
 |[(주)비츠로이엠 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주비츠로이엠연구소.png)|0|0|0|40|0|0|
@@ -1228,6 +1228,7 @@
 |[(주)옵트에이아이 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주옵트에이아이기업부설연구소.png)|0|0|0|500|0|0|
 |[(주)옵티코어 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주옵티코어기업부설연구소.png)|0|0|0|0|0|0|
 |[(주)와따기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주와따기업부설연구소.png)|0|0|0|272|0|0|
+|[(주)와이에스생명과학 중앙연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주와이에스생명과학중앙연구소.png)|0|0|0|272|0|0|
 |[(주)와이에스생명과학 화성연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주와이에스생명과학화성연구소.png)|0|0|0|272|0|0|
 |[(주)와이즈스톤 R&D Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주와이즈스톤R&DCenter.png)|0|0|0|500|0|0|
 |[(주)우경정보기술 IT 기술개발 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주우경정보기술IT기술개발연구소.png)|795|0|0|20|0|0|
@@ -1238,7 +1239,6 @@
 |[(주)원익피앤이 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주원익피앤이부설연구소.png)|0|0|0|272|0|0|
 |[(주)원진바이오테크놀로지기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주원진바이오테크놀로지기술연구소.png)|0|0|0|272|0|0|
 |[(주)원트리즈뮤직 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주원트리즈뮤직기업부설연구소.png)|0|0|0|500|0|0|
-|[(주)웨더피아 부설 글로벌기후변화연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주웨더피아부설글로벌기후변화연구소.png)|0|0|0|500|0|0|
 |[(주)웨이브릿지 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주웨이브릿지기업부설연구소.png)|0|0|0|500|0|0|
 |[(주)웨이브일렉트로닉스 기업부설 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주웨이브일렉트로닉스기업부설연구소.png)|0|0|0|0|0|0|
 |[(주)위드멤스연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주위드멤스연구소.png)|0|0|0|272|0|0|
@@ -1280,7 +1280,7 @@
 |[(주)인티그레이션 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주인티그레이션기업부설연구소.png)|0|0|0|500|0|0|
 |[(주)인포마이닝 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주인포마이닝기업부설연구소.png)|0|0|0|0|0|0|
 |[(주)일리아스바이오로직스 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주일리아스바이오로직스부설연구소.png)|0|0|0|65|0|0|
-|[(주)임베디드솔루션 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주임베디드솔루션기업부설연구소.png)|0|0|0|1|0|0|
+|[(주)임베디드솔루션 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주임베디드솔루션기업부설연구소.png)|0|0|0|0|0|0|
 |[(주)자람테크놀로지SOC연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주자람테크놀로지SOC연구소.png)|0|0|0|272|0|0|
 |[(주)자이메디 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주자이메디기업부설연구소.png)|0|0|0|40|0|0|
 |[(주)재영소프트 부산센텀연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주재영소프트부산센텀연구소.png)|0|0|0|20|0|0|
@@ -1302,7 +1302,6 @@
 |[(주)지에프씨생명과학 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주지에프씨생명과학기업부설연구소.png)|0|0|0|0|0|0|
 |[(주)지엠디소프트 융합기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주지엠디소프트융합기술연구소.png)|0|0|0|272|0|0|
 |[(주)지오메카이엔지기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주지오메카이엔지기술연구소.png)|0|0|0|272|0|0|
-|[(주)지이모션 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주지이모션기업부설연구소.png)|0|0|0|500|0|0|
 |[(주)지필로스기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주지필로스기술연구소.png)|0|0|0|272|0|0|
 |[(주)진셀팜 한국피부과학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주진셀팜한국피부과학연구원.png)|0|0|0|500|0|0|
 |[(주)진우바이오부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주진우바이오부설연구소.png)|0|0|0|272|0|0|
@@ -1381,7 +1380,6 @@
 |[(주)프론틱스 부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주프론틱스부설연구소.png)|0|0|0|500|0|0|
 |[(주)플럭시티기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주플럭시티기업부설연구소.png)|0|0|0|500|0|0|
 |[(주)플로우테크 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주플로우테크기업부설연구소.png)|0|0|0|272|0|0|
-|[(주)피아이첨단소재 R&D Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주피아이첨단소재R&DCenter.png)|0|0|0|1|0|0|
 |[(주)피앤씨솔루션 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주피앤씨솔루션기업부설연구소.png)|999|0|0|10|0|0|
 |[(주)피지오닉스 디지털신호처리연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주피지오닉스디지털신호처리연구소.png)|0|0|0|65|0|0|
 |[(주)피플앤드테크놀러지 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주피플앤드테크놀러지기업부설연구소.png)|0|0|0|0|0|0|
@@ -1408,7 +1406,6 @@
 |[(주)휴미디어 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주휴미디어연구소.png)|0|0|0|0|0|0|
 |[(주)휴비스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주휴비스기업부설연구소.png)|0|0|0|0|0|0|
 |[(주)휴비츠부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주휴비츠부설연구소.png)|0|0|0|272|0|0|
-|[(주)히츠 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주히츠기업부설연구소.png)|0|0|0|500|0|0|
 |[(주)힐링페이퍼 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주힐링페이퍼기업부설연구소.png)|0|0|0|500|0|0|
 |[(주)힘스 부설기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주힘스부설기술연구소.png)|0|0|0|40|0|0|
 |[APTC(주)R&D Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/APTC주R&DCenter.png)|0|0|0|272|0|0|
@@ -1447,13 +1444,14 @@
 |[본제이워터스(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/본제이워터스주기업부설연구소.png)|0|0|0|0|0|0|
 |[부전전자(주) 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/부전전자주기술연구소.png)|0|0|0|40|0|0|
 |[브이젠(주) 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/브이젠주기술연구소.png)|0|0|0|500|0|0|
+|[블루센(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/블루센주기업부설연구소.png)|795|0|0|20|0|0|
 |[블루카이트(주) ICT융합재난안전연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/블루카이트주ICT융합재난안전연구소.png)|0|0|0|272|0|0|
 |[비티에스테크놀로지스(주)기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/비티에스테크놀로지스주기술연구소.png)|0|0|0|272|0|0|
 |[삼아항업(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼아항업주기업부설연구소.png)|0|0|0|10|0|0|
 |[삼영기계(주)부설 삼영기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼영기계주부설삼영기술연구소.png)|0|0|0|65|0|0|
 |[삼원에프에이(주)부설 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/삼원에프에이주부설기술연구소.png)|0|0|0|20|0|0|
 |[상담용업체_전문](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/상담용업체_전문.png)|0|0|0|0|0|0|
-|[샘표식품 주식회사 우리맛연구중심 (기업부설연구소)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/샘표식품주식회사우리맛연구중심기업부설연구소.png)|0|0|0|0|0|0|
+|[샘표식품 주식회사 우리맛연구중심 (기업부설연구소)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/샘표식품주식회사우리맛연구중심기업부설연구소.png)|0|0|0|1|0|0|
 |[서호드라이브(주)기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서호드라이브주기업부설연구소.png)|0|0|0|0|0|0|
 |[서호전기(주) 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서호전기주기술연구소.png)|0|0|0|0|0|0|
 |[성신전기공업(주)부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성신전기공업주부설연구소.png)|0|0|0|272|0|0|
@@ -1526,6 +1524,7 @@
 |[크로넥스(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/크로넥스주기업부설연구소.png)|0|0|0|0|0|0|
 |[크리모(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/크리모주기업부설연구소.png)|795|0|0|20|0|0|
 |[탱크테크(주) 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/탱크테크주기술연구소.png)|0|0|0|0|0|0|
+|[테너지연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/테너지연구소.png)|0|0|0|0|0|0|
 |[티비스톰 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/티비스톰기술연구소.png)|0|0|0|500|0|0|
 |[풍원화학(주)부설 기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/풍원화학주부설기술연구소.png)|0|0|0|40|0|0|
 |[하이젠모터(주)기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/하이젠모터주기술연구소.png)|605|0|0|5|0|0|
