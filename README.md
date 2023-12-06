@@ -1,4 +1,4 @@
-<div align=center> <h1> :technologist: 전문연구요원을 위한 데이터 적재 및 시각화 :technologist: </h1> </div>
+<div align=center> <h1> 🧑‍💻 전문연구요원을 위한 데이터 적재 및 시각화 🧑‍💻 </h1> </div>
 
 <div align = "center">
   <a href="https://github.com/sindresorhus/awesome">
@@ -19,7 +19,7 @@
 
 <details open>
 <summary align="center">
-  <h2> :school_satchel: 석사 전문연구요원 :school_satchel: </h2>
+  <h2> 🎒 석사 전문연구요원 🎒 </h2>
 </summary>
   <div align="center">
     <img src="prop/MS/연구분야.png">
@@ -34,7 +34,7 @@
 
 <details>
 <summary align="center">
-  <h2> :mortar_board: 박사 전문연구요원 :mortar_board: </h2>
+  <h2> 🎓 박사 전문연구요원 🎓 </h2>
 </summary>
   <div align="center">
     <img src="prop/PhD/연구분야.png">
@@ -49,7 +49,7 @@
 
 <details>
 <summary align="center">
-  <h2> :bulb: 전체 전문연구요원 :bulb: </h2>
+  <h2> 💡 전체 전문연구요원 💡 </h2>
 </summary>
   <div align="center">
     <img src="prop/ALL/연구분야.png">
@@ -65,7 +65,7 @@
 
 ---
 
-<div align=center> <h1> :memo: 전문연구요원 블로그 :memo: </h1> </div>
+<div align=center> <h1> 📝 전문연구요원 블로그 📝 </h1> </div>
 
 + [Zerohertz](https://zerohertz.github.io/tags/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90/)
 + [harryp](https://harryp.tistory.com/category/Park%27s%20Life/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
