@@ -234,7 +234,7 @@ class vis_data:
         with open(f"{self.dir}/README.md", "w") as f:
             if top == 0:
                 f.writelines(
-                    f"<div align=center> <h1> :technologist: 전문연구요원 복무인원 순위 :technologist: </h1> </div>\n\n<div align=center>\n\n|업체명|보충역 배정인원|보충역 편입인원|보충역 복무인원|현역 배정인원|현역 편입인원|현역 복무인원|\n|:-:|:-:|:-:|:-:|:-:|:-:|:-:|\n"
+                    f"<div align=center> <h1> 🧑‍💻 전문연구요원 복무인원 순위 🧑‍💻 </h1> </div>\n\n<div align=center>\n\n|업체명|보충역 배정인원|보충역 편입인원|보충역 복무인원|현역 배정인원|현역 편입인원|현역 복무인원|\n|:-:|:-:|:-:|:-:|:-:|:-:|:-:|\n"
                 )
                 for name, a1, a2, a3, b1, b2, b3 in self.ranked_data_org.values:
                     f.writelines(
@@ -242,7 +242,7 @@ class vis_data:
                     )
             else:
                 f.writelines(
-                    f"<div align=center> <h1> :technologist: 전문연구요원 복무인원 순위 TOP {top} :technologist: </h1> </div>\n\n<div align=center>\n\n|업체명|보충역 배정인원|보충역 편입인원|보충역 복무인원|현역 배정인원|현역 편입인원|현역 복무인원|\n|:-:|:-:|:-:|:-:|:-:|:-:|:-:|\n"
+                    f"<div align=center> <h1> 🧑‍💻 전문연구요원 복무인원 순위 TOP {top} 🧑‍💻 </h1> </div>\n\n<div align=center>\n\n|업체명|보충역 배정인원|보충역 편입인원|보충역 복무인원|현역 배정인원|현역 편입인원|현역 복무인원|\n|:-:|:-:|:-:|:-:|:-:|:-:|:-:|\n"
                 )
                 for name, a1, a2, a3, b1, b2, b3 in self.ranked_data_org.values:
                     f.writelines(
