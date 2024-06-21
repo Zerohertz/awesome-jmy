@@ -5,7 +5,7 @@
 |업체명|보충역 배정인원|보충역 편입인원|보충역 복무인원|현역 배정인원|현역 편입인원|현역 복무인원|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[한국과학기술원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국과학기술원.png)|0|32|165|328|294|739|
-|[서울대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교대학원.png)|9999|0|136|577|0|657|
+|[서울대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교대학원.png)|9999|0|135|577|0|657|
 |[포항공과대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/포항공과대학교대학원.png)|9999|0|65|577|0|386|
 |[연세대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/연세대학교대학원.png)|9999|0|49|577|0|178|
 |[울산과학기술원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/울산과학기술원.png)|0|2|45|54|30|149|
@@ -122,6 +122,7 @@
 |[대구경북과학기술원 정보통신융합연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/대구경북과학기술원정보통신융합연구소.png)|9999|0|0|0|0|3|
 |[대구경북과학기술원 한국뇌연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/대구경북과학기술원한국뇌연구원.png)|9999|0|0|0|1|3|
 |[서강대학교 기초과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서강대학교기초과학연구소.png)|9999|0|0|0|0|3|
+|[서울대학교 원자력미래기술정책연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교원자력미래기술정책연구소.png)|9999|0|0|0|2|3|
 |[서울대학교공학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교공학연구원.png)|9999|0|1|0|0|2|
 |[서울대학교컴퓨터연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교컴퓨터연구소.png)|9999|0|0|0|1|3|
 |[성균관대학교 계면연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교계면연구센터.png)|9999|0|0|0|0|3|
@@ -174,7 +175,6 @@
 |[서강대학교 C1가스리파이너리연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서강대학교C1가스리파이너리연구소.png)|9999|0|1|0|0|1|
 |[서강대학교 바이오융합기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서강대학교바이오융합기술연구소.png)|9999|0|0|0|1|2|
 |[서울대학교 수의과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교수의과학연구소.png)|9999|0|0|1|2|2|
-|[서울대학교 원자력미래기술정책연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교원자력미래기술정책연구소.png)|9999|0|0|0|1|2|
 |[서울대학교 전력연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교전력연구소.png)|9999|0|0|0|2|2|
 |[성균관대학교 나노구조물리연구단](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교나노구조물리연구단.png)|9999|0|0|0|0|2|
 |[성균관대학교아날로그RF회로및시스템연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교아날로그RF회로및시스템연구센터.png)|9999|0|0|1|0|2|
@@ -257,6 +257,7 @@
 |[서울대학교 데이터사이언스대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교데이터사이언스대학원.png)|9999|0|0|577|0|1|
 |[서울대학교 보건환경연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교보건환경연구소.png)|9999|0|0|0|0|1|
 |[서울대학교 생활과학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교생활과학연구소.png)|9999|1|1|1|0|0|
+|[서울대학교 에너지자원신기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교에너지자원신기술연구소.png)|9999|1|1|1|0|0|
 |[서울대학교 유전공학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교유전공학연구소.png)|9999|0|0|1|0|1|
 |[성균관대생명공학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대생명공학연구원.png)|9999|0|0|0|0|1|
 |[성균관대학교 AI-Digital Health Care 연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교AI-DigitalHealthCare연구센터.png)|9999|0|0|1|1|1|
@@ -374,7 +375,6 @@
 |[서울과학기술대학교나노IT디자인융합대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울과학기술대학교나노IT디자인융합대학원.png)|9999|0|0|577|0|0|
 |[서울대학교 국방생체모방자율로봇특화연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교국방생체모방자율로봇특화연구센터.png)|0|0|0|0|0|0|
 |[서울대학교 생명공학공동연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교생명공학공동연구원.png)|9999|0|0|0|0|0|
-|[서울대학교 에너지자원신기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교에너지자원신기술연구소.png)|9999|0|0|1|0|0|
 |[서울대학교 치학연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교치학연구소.png)|9999|0|0|1|0|0|
 |[서울시립대학교 도시과학연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울시립대학교도시과학연구원.png)|9999|0|0|1|0|0|
 |[세포교신제어연구센터(인하대학교 산학협력단)](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/세포교신제어연구센터인하대학교산학협력단.png)|0|0|0|0|0|0|
