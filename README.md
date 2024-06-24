@@ -16,7 +16,6 @@
 
 > [**「병역법 제3조 제1항」**](https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EB%B3%91%EC%97%AD%EB%B2%95/%EC%A0%9C3%EC%A1%B0) 대한민국 국민인 남성은 헌법과 이 법에서 정하는 바에 따라 병역의무를 성실히 수행하여야 한다.
 
-
 <details open>
 <summary align="center">
   <h2> 🎒 석사 전문연구요원 🎒 </h2>
@@ -25,8 +24,8 @@
     <img src="prop/MS/연구분야.png">
     <img src="prop/MS/위치.png">
     <img src="prop/MS/지방청.png">
-    <img src="prop/MS/TOP_30_복무인원.png">
-    <img src="prop/MS/TOP_30_편입인원.png">
+    <img src="prop/MS/top_30_복무인원.png">
+    <img src="prop/MS/top_30_편입인원.png">
     </br>
     <a href="prop/MS/README.md"> 📝 표로 보기 📝 </a>
   </div>
@@ -40,8 +39,8 @@
     <img src="prop/PhD/연구분야.png">
     <img src="prop/PhD/위치.png">
     <img src="prop/PhD/지방청.png">
-    <img src="prop/PhD/TOP_30_복무인원.png">
-    <img src="prop/PhD/TOP_30_편입인원.png">
+    <img src="prop/PhD/top_30_복무인원.png">
+    <img src="prop/PhD/top_30_편입인원.png">
     </br>
     <a href="prop/PhD/README.md"> 📝 표로 보기 📝 </a>
   </div>
@@ -56,8 +55,8 @@
     <img src="prop/ALL/업종.png">
     <img src="prop/ALL/위치.png">
     <img src="prop/ALL/지방청.png">
-    <img src="prop/ALL/TOP_30_복무인원.png">
-    <img src="prop/ALL/TOP_30_편입인원.png">
+    <img src="prop/ALL/top_30_복무인원.png">
+    <img src="prop/ALL/top_30_편입인원.png">
     </br>
     <a href="prop/ALL/README.md"> 📝 표로 보기 📝 </a>
   </div>
