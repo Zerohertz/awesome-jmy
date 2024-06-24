@@ -13,7 +13,9 @@ warnings.filterwarnings("ignore")
 
 
 def _name(name):
-    return name.replace("(", "").replace(")", "").replace("/", "").replace(" ", "")
+    return (
+        name.replace("(", "").replace(")", "").replace("/", "").replace(" ", "").lower()
+    )
 
 
 def _move(fr, to):
