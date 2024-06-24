@@ -28,7 +28,7 @@
     <img src="prop/MS/TOP_30_복무인원.png">
     <img src="prop/MS/TOP_30_편입인원.png">
     </br>
-    <a href="https://github.com/Zerohertz/awesome-jmy/blob/main/prop/MS/README.md"> 📝 표로 보기 📝 </a>
+    <a href="prop/MS/README.md"> 📝 표로 보기 📝 </a>
   </div>
 </details>
 
@@ -43,7 +43,7 @@
     <img src="prop/PhD/TOP_30_복무인원.png">
     <img src="prop/PhD/TOP_30_편입인원.png">
     </br>
-    <a href="https://github.com/Zerohertz/awesome-jmy/blob/main/prop/PhD/README.md"> 📝 표로 보기 📝 </a>
+    <a href="prop/PhD/README.md"> 📝 표로 보기 📝 </a>
   </div>
 </details>
 
@@ -59,7 +59,7 @@
     <img src="prop/ALL/TOP_30_복무인원.png">
     <img src="prop/ALL/TOP_30_편입인원.png">
     </br>
-    <a href="https://github.com/Zerohertz/awesome-jmy/blob/main/prop/ALL/README.md"> 📝 표로 보기 📝 </a>
+    <a href="prop/ALL/README.md"> 📝 표로 보기 📝 </a>
   </div>
 </details>
 
