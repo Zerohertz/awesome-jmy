@@ -143,7 +143,7 @@ class DataLoader:
 
     def rank_vis(self, by="복무인원", top=30):
         self.logger.info(f"Plot Rank ({by}): START")
-        plt.figure(figsize=(10, int(0.6 * top)))
+        zz.plot.figure(figsize=(10, int(0.6 * top)))
         plt.grid(zorder=0)
         data = defaultdict(list)
         if by == "복무인원":
