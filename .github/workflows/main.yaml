@@ -40,15 +40,15 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data
-          git commit -m ":monocle_face: Add: Data" || echo "data: No changes to commit"
+          git commit -m ":monocle_face: add: data" || echo "data: No changes to commit"
           git add prop/*/*.md
-          git commit -m ":rocket: Docs: Rank" || echo "prop/*/*.md: No changes to commit"
+          git commit -m ":rocket: docs: rank" || echo "prop/*/*.md: No changes to commit"
           git add prop/*/*.png
-          git commit -m ":art: Update: Visualization" || echo "prop/*/*.png: No changes to commit"
+          git commit -m ":art: update: visualization" || echo "prop/*/*.png: No changes to commit"
           git add prop/time
-          git commit -m ":alarm_clock: Update: Time Series" || echo "time.tsv, prop/time: No changes to commit"
+          git commit -m ":alarm_clock: update: time series" || echo "time.tsv, prop/time: No changes to commit"
           git add -A
-          git commit -m ":bento: Update: Etc." || echo "Etc.: No changes to commit"
+          git commit -m ":bento: update: etc." || echo "Etc.: No changes to commit"
           git push
 
       - name: Slack webhook
