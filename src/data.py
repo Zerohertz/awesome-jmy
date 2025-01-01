@@ -136,7 +136,6 @@ class DataLoader:
             colors=colors,
             rot=90,
             dim="%",
-            save=False,
         )
         path = zz.plot.savefig(tar)
         _move(path, self.dir)
@@ -163,7 +162,6 @@ class DataLoader:
                 dim="명",
                 dimsize=10,
                 sign=0,
-                save=False,
             )
         elif by == "편입인원":
             for name, _, a, b, _, c, d, _, _ in self.ranked_data_new.iloc[:30].values[
@@ -179,7 +177,6 @@ class DataLoader:
                 dim="명",
                 dimsize=10,
                 sign=0,
-                save=False,
             )
         path = zz.plot.savefig(f"TOP_{top}_{by.replace(' ', '_')}")
         _move(path, self.dir)
@@ -242,7 +239,6 @@ class DataLoader:
             title="",
             colors=["#c0c0f0", "#f0c0c0", "#909090", "#6060ff", "#ff6060", "#000000"],
             markersize=7,
-            save=False,
         )
         try:
             m1 = self.data[self.data["업체명"] == name]["보충역 배정인원"].iloc[0]
