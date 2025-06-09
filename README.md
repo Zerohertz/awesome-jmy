@@ -6,7 +6,11 @@
   </a>
   </br>
   <a href="https://github.com/Zerohertz/awesome-jmy">
-    <img src="https://img.shields.io/badge/awesome--jmy-800a0a?style=for-the-badge&logo=Awesome Lists&logoColor=white"/>
+    <img src="https://img.shields.io/badge/awesome--jmy-800a0a?style=for-the-badge&logo=Awesome%20Lists&logoColor=white"/>
+  </a>
+  <br/>
+  <a href="https://www.star-history.com/#Zerohertz/awesome-jmy&Date">
+    <img src="https://api.star-history.com/svg?repos=Zerohertz/awesome-jmy&type=Date"/>
   </a>
 </div>
 
