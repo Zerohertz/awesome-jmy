@@ -50,14 +50,3 @@ jobs:
           git add -A
           git commit -m ":bento: update: etc." || echo "Etc.: No changes to commit"
           git push
-
-      - name: Slack webhook
-        uses: 8398a7/action-slack@v3
-        with:
-          status: ${{ job.status }}
-          author_name: awesome-jmy
-          fields: repo,message,commit,author,action,eventName,ref,workflow,job,took
-          if_mention: failure,cancelled
-        env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_CHECK }}
-        if: always()
