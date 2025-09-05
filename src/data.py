@@ -7,6 +7,7 @@ from glob import glob
 import pandas as pd
 import seaborn as sns
 import zerohertzLib as zz
+from loguru import logger
 from matplotlib import pyplot as plt
 
 warnings.filterwarnings("ignore")
@@ -50,7 +51,6 @@ class DataLoader:
         os.makedirs("prop", exist_ok=True)
         DIR_NAME = ["ALL", "MS", "PhD"]
         self.degree = DIR_NAME[degree]
-        self.logger = zz.logging.Logger(f"JMY-{self.degree}")
         self.dir = os.path.join("prop", DIR_NAME[degree])
         os.makedirs(self.dir, exist_ok=True)
         if degree == 1:
@@ -116,15 +116,15 @@ class DataLoader:
         ]
 
     def time_tsv(self):
-        self.logger.info("Time Series Data to TSV: START")
+        logger.info("Time Series Data to TSV: START")
         for name, _, a, b, _, c, d, e, f in self.ranked_data_org.values:
             file_path = f"prop/time/data/{_name(name)}.tsv"
             with open(file_path, "a") as file:
                 file.writelines(f"{self.time}\t{name}\t{a}\t{b}\t{c}\t{d}\t{e}\t{f}\n")
-        self.logger.info("Time Series Data to TSV: DONE")
+        logger.info("Time Series Data to TSV: DONE")
 
     def bar(self, tar):
-        self.logger.info(f"Plot Bar Chart ({tar}): START")
+        logger.info(f"Plot Bar Chart ({tar}): START")
         field_counts = self.data[tar].value_counts()
         zz.plot.figure((30, 10))
         colors = sns.color_palette("coolwarm", n_colors=len(field_counts))[::-1]
@@ -139,10 +139,10 @@ class DataLoader:
         )
         path = zz.plot.savefig(tar)
         _move(path, self.dir)
-        self.logger.info(f"Plot Bar Chart ({tar}): DONE")
+        logger.info(f"Plot Bar Chart ({tar}): DONE")
 
     def rank_vis(self, by="복무인원", top=30):
-        self.logger.info(f"Plot Rank ({by}): START")
+        logger.info(f"Plot Rank ({by}): START")
         zz.plot.figure(figsize=(10, int(0.6 * top)))
         plt.grid(zorder=0)
         data = defaultdict(list)
@@ -180,10 +180,10 @@ class DataLoader:
             )
         path = zz.plot.savefig(f"TOP_{top}_{by.replace(' ', '_')}")
         _move(path, self.dir)
-        self.logger.info(f"Plot Rank ({by}): DONE")
+        logger.info(f"Plot Rank ({by}): DONE")
 
     def rank_readme(self, top=0):
-        self.logger.info("Write README.md: START")
+        logger.info("Write README.md: START")
         with open(f"{self.dir}/README.md", "w") as f:
             if top == 0:
                 f.writelines(
@@ -202,14 +202,14 @@ class DataLoader:
                         f"|[{name}](../time/plot/{_name(name)}.png)|{a1}|{a2}|{a3}|{b1}|{b2}|{b3}|{t1}|{t2}|\n"
                     )
             f.writelines("\n</div>")
-        self.logger.info("Write README.md: DONE")
+        logger.info("Write README.md: DONE")
 
     def plot_time(self):
         zz.util.rmtree("prop/time/plot")
-        self.logger.info("Plot Time Series Data: START")
+        logger.info("Plot Time Series Data: START")
         for path in glob("prop/time/data/*.tsv"):
             self._plot_time(path)
-        self.logger.info("Plot Time Series Data: DONE")
+        logger.info("Plot Time Series Data: DONE")
 
     def _plot_time(self, path):
         data = pd.read_csv(path, sep="\t", header=None, encoding="utf-8")

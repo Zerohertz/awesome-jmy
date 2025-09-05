@@ -24,7 +24,7 @@ jobs:
 
       - name: Install Dependency
         run: |
-          pip install xlrd zerohertzLib'[api]'
+          pip install xlrd loguru zerohertzLib'[api]'
 
       - name: Run Script
         run: |
