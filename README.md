@@ -78,3 +78,8 @@
 + [queez0405](https://queez0405.github.io/tags/#%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
 + [thinkpro](https://thinkpro.tistory.com/tag/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
 + [next-brain](https://next-brain.tistory.com/tag/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
+
+---
+
+> [!NOTE]
+> See also [awesome-sgy](https://github.com/Zerohertz/awesome-jmy)
