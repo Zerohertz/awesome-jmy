@@ -82,4 +82,4 @@
 ---
 
 > [!NOTE]
-> See also [awesome-sgy](https://github.com/Zerohertz/awesome-jmy)
+> See also [awesome-sgy](https://github.com/Zerohertz/awesome-sgy)
