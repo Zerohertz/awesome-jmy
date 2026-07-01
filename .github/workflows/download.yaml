@@ -29,6 +29,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config commit.gpgsign false
           git add data
-          git commit -m ":monocle_face: add: data" || echo "data: No changes to commit"
-          git push
+          if git diff --cached --quiet; then
+            echo "data: No changes to commit"
+          else
+            git commit -m ":monocle_face: add: data"
+            git push
+          fi

@@ -34,12 +34,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config commit.gpgsign false
           git add prop/*/*.md
-          git commit -m ":rocket: docs: rank" || echo "prop/*/*.md: No changes to commit"
+          git diff --cached --quiet || git commit -m ":rocket: docs: rank"
           git add prop/*/*.png
-          git commit -m ":art: update: visualization" || echo "prop/*/*.png: No changes to commit"
+          git diff --cached --quiet || git commit -m ":art: update: visualization"
           git add prop/time
-          git commit -m ":alarm_clock: update: time series" || echo "time.tsv, prop/time: No changes to commit"
+          git diff --cached --quiet || git commit -m ":alarm_clock: update: time series"
           git add -A
-          git commit -m ":bento: update: etc." || echo "Etc.: No changes to commit"
+          git diff --cached --quiet || git commit -m ":bento: update: etc."
           git push
