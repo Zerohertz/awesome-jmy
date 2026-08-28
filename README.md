@@ -1,16 +1,12 @@
 <div align=center> <h1> 🧑‍💻 전문연구요원을 위한 데이터 적재 및 시각화 🧑‍💻 </h1> </div>
 
 <div align = "center">
-  <a href="https://github.com/sindresorhus/awesome">
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
-  </a>
-  </br>
-  <a href="https://github.com/Zerohertz/awesome-jmy">
-    <img src="https://img.shields.io/badge/awesome--jmy-800a0a?style=for-the-badge&logo=Awesome%20Lists&logoColor=white"/>
-  </a>
-  <br/>
-  <a href="https://www.star-history.com/#Zerohertz/awesome-jmy&Date">
-    <img src="https://api.star-history.com/svg?repos=Zerohertz/awesome-jmy&type=Date"/>
+  <a href="https://www.star-history.com/?type=date&repos=Zerohertz%2Fawesome-jmy">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Zerohertz/awesome-jmy&type=date&theme=dark&legend=top-left&sealed_token=iaFSCOb8jVKtd2b3L73FfIEp_4uKIzSytDnJwuwkDimOK4ECfcON3rTNhPLLNxlycD7nH9aLXn5LShogBh-IoMvFIYPCMC_AAYKVZOB6uHBM6VCctRYXfQ" />
+     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Zerohertz/awesome-jmy&type=date&legend=top-left&sealed_token=iaFSCOb8jVKtd2b3L73FfIEp_4uKIzSytDnJwuwkDimOK4ECfcON3rTNhPLLNxlycD7nH9aLXn5LShogBh-IoMvFIYPCMC_AAYKVZOB6uHBM6VCctRYXfQ" />
+     <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Zerohertz/awesome-jmy&type=date&legend=top-left&sealed_token=iaFSCOb8jVKtd2b3L73FfIEp_4uKIzSytDnJwuwkDimOK4ECfcON3rTNhPLLNxlycD7nH9aLXn5LShogBh-IoMvFIYPCMC_AAYKVZOB6uHBM6VCctRYXfQ" />
+   </picture>
   </a>
 </div>
 
