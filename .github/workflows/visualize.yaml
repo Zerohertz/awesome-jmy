@@ -25,7 +25,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install Dependency
-        run: pip install xlrd loguru zerohertzLib'[api]'
+        run: pip install xlrd loguru six zerohertzLib'[api]'
 
       - name: Run Script
         run: python src/data.py
